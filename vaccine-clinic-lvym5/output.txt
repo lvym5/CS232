@@ -1,0 +1,2080 @@
+Sat Mar 23 15:38:54 2024: nurse 0 started
+Sat Mar 23 15:38:54 2024: nurse 2 started
+Sat Mar 23 15:38:54 2024: nurse 5 started
+Sat Mar 23 15:38:54 2024: client 15 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: nurse 5 is walking to get a vial. 
+Sat Mar 23 15:38:54 2024: nurse 3 started
+Sat Mar 23 15:38:54 2024: nurse 4 started
+Sat Mar 23 15:38:54 2024: client 1 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: nurse 4 is walking to get a vial. 
+Sat Mar 23 15:38:54 2024: nurse 0 is walking to get a vial. 
+Sat Mar 23 15:38:54 2024: nurse 7 started
+Sat Mar 23 15:38:54 2024: client 6 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: nurse 1 started
+Sat Mar 23 15:38:54 2024: client 0 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 19 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 2 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 3 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: nurse 3 is walking to get a vial. 
+Sat Mar 23 15:38:54 2024: client 9 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 12 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: nurse 8 started
+Sat Mar 23 15:38:54 2024: client 10 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 11 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 50 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 13 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 14 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 29 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 30 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 31 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 17 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 33 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 18 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: nurse 7 is walking to get a vial. 
+Sat Mar 23 15:38:54 2024: client 55 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 36 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: nurse 1 is walking to get a vial. 
+Sat Mar 23 15:38:54 2024: client 38 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 16 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 41 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 34 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 23 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 24 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: nurse 8 is walking to get a vial. 
+Sat Mar 23 15:38:54 2024: client 94 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 46 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 95 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 26 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 27 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 96 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 98 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 52 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 4 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 35 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 99 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 100 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: nurse 2 is walking to get a vial. 
+Sat Mar 23 15:38:54 2024: nurse 9 started
+Sat Mar 23 15:38:54 2024: client 101 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 102 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: nurse 9 is walking to get a vial. 
+Sat Mar 23 15:38:54 2024: client 7 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 21 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 40 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 20 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 42 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 105 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 43 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 107 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 63 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 159 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 47 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 160 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 49 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 65 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 163 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 5 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 51 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 54 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 166 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 32 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 167 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 8 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 168 has arrived and is walking to register
+: client 67 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 56 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 169 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 68 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 57 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 59 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 58 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 45 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 61 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 64 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 62 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 66 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 60 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 70 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 69 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 71 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 72 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 73 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 74 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 75 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 76 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 77 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 78 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 79 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 80 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 81 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 82 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 83 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 84 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 85 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 86 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 87 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 88 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 89 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 90 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 91 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 92 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 93 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 28 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 97 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: nurse 6 started
+Sat Mar 23 15:38:54 2024: nurse 6 is walking to get a vial. 
+Sat Mar 23 15:38:54 2024: client 39 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 22 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 37 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 103 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 104 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 106 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 44 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 108 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 109 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 110 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 111 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 112 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 113 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 114 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 115 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 116 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 117 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 118 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 119 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 120 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 121 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 122 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 123 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 124 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 125 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 126 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 127 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 128 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 129 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 130 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 131 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 132 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 133 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 134 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 135 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 136 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 137 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 138 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 139 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 140 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 141 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 142 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 143 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 144 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 145 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 146 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 147 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 148 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 149 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 150 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 151 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 152 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 153 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 154 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 155 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 156 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 157 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 158 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 25 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 48 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 161 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 162 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 164 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 165 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 53 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 170 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 171 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 172 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 173 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 174 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 175 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 176 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 177 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 178 has arrived and is walking to register
+Sat Mar 23 15:38:54 2024: client 179 has arrived and is walking to register
+Sat Mar 23 15:38:55 2024: nurse 8 got vial. Number of vials left: 29 
+Sat Mar 23 15:38:56 2024: nurse 5 got vial. Number of vials left: 28 
+Sat Mar 23 15:38:56 2024: nurse 6 got vial. Number of vials left: 27 
+Sat Mar 23 15:38:57 2024: nurse 3 got vial. Number of vials left: 26 
+Sat Mar 23 15:38:57 2024: nurse 2 got vial. Number of vials left: 25 
+Sat Mar 23 15:38:57 2024: nurse 9 got vial. Number of vials left: 24 
+Sat Mar 23 15:38:57 2024: nurse 4 got vial. Number of vials left: 23 
+Sat Mar 23 15:38:57 2024: nurse 8 is ready for their client
+Sat Mar 23 15:38:57 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:38:57 2024: nurse 0 got vial. Number of vials left: 22 
+Sat Mar 23 15:38:57 2024: nurse 5 is ready for their client
+Sat Mar 23 15:38:57 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:38:57 2024: nurse 7 got vial. Number of vials left: 21 
+Sat Mar 23 15:38:57 2024: nurse 1 got vial. Number of vials left: 20 
+Sat Mar 23 15:38:57 2024: client 173 is waiting in line to register.
+Sat Mar 23 15:38:57 2024: client 85 is waiting in line to register.
+Sat Mar 23 15:38:57 2024: client 69 is waiting in line to register.
+Sat Mar 23 15:38:57 2024: client 54 is waiting in line to register.
+Sat Mar 23 15:38:57 2024: client 144 is waiting in line to register.
+Sat Mar 23 15:38:57 2024: client 65 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 56 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 55 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 155 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 59 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 150 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 114 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 164 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 26 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 163 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: nurse 2 is ready for their client
+Sat Mar 23 15:38:58 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:38:58 2024: nurse 3 is ready for their client
+Sat Mar 23 15:38:58 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:38:58 2024: client 111 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 33 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 28 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 158 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 119 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 10 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 140 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 154 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 146 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 1 is waiting in line to register.
+Sat Mar 23 15:38:58 2024: client 68 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: nurse 9 is ready for their client
+Sat Mar 23 15:38:59 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:38:59 2024: client 103 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 167 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 43 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 38 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: nurse 6 is ready for their client
+Sat Mar 23 15:38:59 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:38:59 2024: client 178 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 112 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 81 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 124 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 52 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 60 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: nurse 7 is ready for their client
+Sat Mar 23 15:38:59 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:38:59 2024: nurse 4 is ready for their client
+Sat Mar 23 15:38:59 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:38:59 2024: client 47 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 168 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 32 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 91 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 88 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 138 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 113 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 11 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 110 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 71 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 5 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: nurse 0 is ready for their client
+Sat Mar 23 15:38:59 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:38:59 2024: client 123 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 19 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 132 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 128 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 171 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 31 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 165 is waiting in line to register.
+Sat Mar 23 15:38:59 2024: client 172 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 160 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 133 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 46 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 2 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 62 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 36 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 143 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 80 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: nurse 1 is ready for their client
+Sat Mar 23 15:39:00 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:39:00 2024: client 89 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 21 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 51 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 118 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 139 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 64 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 72 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 108 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 92 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 84 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 101 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 37 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 22 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 34 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 104 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 98 is waiting in line to register.
+Sat Mar 23 15:39:00 2024: client 109 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 76 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 135 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 14 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 162 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 86 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 149 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 131 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 74 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 70 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 49 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 141 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 41 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 48 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 15 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 126 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 9 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 44 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 166 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 115 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 24 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 83 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 23 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 152 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 93 is waiting in line to register.
+Sat Mar 23 15:39:01 2024: client 177 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 87 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 97 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 20 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 45 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 169 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 175 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 102 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 129 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 39 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 30 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 53 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 137 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 27 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 130 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 18 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 29 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 142 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 156 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 8 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 174 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 17 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 125 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 75 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 116 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 40 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 159 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 122 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 106 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 99 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 73 is waiting in line to register.
+Sat Mar 23 15:39:02 2024: client 7 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 145 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 170 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 176 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 94 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 6 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 82 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 77 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 161 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 90 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 148 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 35 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 4 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 117 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 58 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 151 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 69 is registered. 
+Sat Mar 23 15:39:03 2024: client 69 is walking to the nurse station queue.
+Sat Mar 23 15:39:03 2024: client 120 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 66 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 107 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 42 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 127 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 12 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 63 is waiting in line to register.
+Sat Mar 23 15:39:03 2024: client 121 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 157 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 16 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 96 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 134 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 50 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 147 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 95 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 13 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 105 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 100 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 79 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 179 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 67 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 153 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 0 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 3 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 25 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 78 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 61 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 136 is waiting in line to register.
+Sat Mar 23 15:39:04 2024: client 57 is waiting in line to register.
+Sat Mar 23 15:39:06 2024: client 85 is registered. 
+Sat Mar 23 15:39:06 2024: client 85 is walking to the nurse station queue.
+Sat Mar 23 15:39:07 2024: client 173 is registered. 
+Sat Mar 23 15:39:07 2024: client 173 is walking to the nurse station queue.
+Sat Mar 23 15:39:07 2024: client 54 is registered. 
+Sat Mar 23 15:39:07 2024: client 54 is walking to the nurse station queue.
+Sat Mar 23 15:39:11 2024: client 173 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:39:11 2024: client 173 is ready for the vaccination from nurse 8
+Sat Mar 23 15:39:11 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:39:12 2024: client 56 is registered. 
+Sat Mar 23 15:39:12 2024: client 56 is walking to the nurse station queue.
+Sat Mar 23 15:39:12 2024: client 54 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:39:12 2024: client 54 is ready for the vaccination from nurse 5
+Sat Mar 23 15:39:12 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:39:12 2024: client 144 is registered. 
+Sat Mar 23 15:39:12 2024: client 144 is walking to the nurse station queue.
+Sat Mar 23 15:39:13 2024: client 69 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:39:13 2024: client 69 is ready for the vaccination from nurse 2
+Sat Mar 23 15:39:13 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:39:13 2024: client 65 is registered. 
+Sat Mar 23 15:39:13 2024: client 65 is walking to the nurse station queue.
+Sat Mar 23 15:39:16 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:39:16 2024: nurse 8 is ready for their client
+Sat Mar 23 15:39:16 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:39:16 2024: client 173 leaves the clinic after getting shot.
+Sat Mar 23 15:39:16 2024: client 85 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:39:16 2024: client 85 is ready for the vaccination from nurse 3
+Sat Mar 23 15:39:16 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:39:16 2024: client 144 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:39:16 2024: client 144 is ready for the vaccination from nurse 9
+Sat Mar 23 15:39:16 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:39:17 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:39:17 2024: nurse 5 is ready for their client
+Sat Mar 23 15:39:17 2024: client 54 leaves the clinic after getting shot.
+Sat Mar 23 15:39:17 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:39:17 2024: client 55 is registered. 
+Sat Mar 23 15:39:17 2024: client 55 is walking to the nurse station queue.
+Sat Mar 23 15:39:17 2024: client 150 is registered. 
+Sat Mar 23 15:39:17 2024: client 150 is walking to the nurse station queue.
+Sat Mar 23 15:39:18 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:39:18 2024: client 69 leaves the clinic after getting shot.
+Sat Mar 23 15:39:18 2024: nurse 2 is ready for their client
+Sat Mar 23 15:39:18 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:39:19 2024: client 59 is registered. 
+Sat Mar 23 15:39:19 2024: client 59 is walking to the nurse station queue.
+Sat Mar 23 15:39:19 2024: client 56 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:39:19 2024: client 56 is ready for the vaccination from nurse 6
+Sat Mar 23 15:39:19 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:39:20 2024: client 155 is registered. 
+Sat Mar 23 15:39:20 2024: client 155 is walking to the nurse station queue.
+Sat Mar 23 15:39:21 2024: client 55 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:39:21 2024: client 55 is ready for the vaccination from nurse 7
+Sat Mar 23 15:39:21 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:39:21 2024: client 65 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:39:21 2024: client 65 is ready for the vaccination from nurse 4
+Sat Mar 23 15:39:21 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:39:21 2024: client 150 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:39:21 2024: client 150 is ready for the vaccination from nurse 0
+Sat Mar 23 15:39:21 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:39:21 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:39:21 2024: client 85 leaves the clinic after getting shot.
+Sat Mar 23 15:39:21 2024: nurse 3 is ready for their client
+Sat Mar 23 15:39:21 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:39:21 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:39:21 2024: client 144 leaves the clinic after getting shot.
+Sat Mar 23 15:39:21 2024: nurse 9 is ready for their client
+Sat Mar 23 15:39:21 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:39:23 2024: client 26 is registered. 
+Sat Mar 23 15:39:23 2024: client 26 is walking to the nurse station queue.
+Sat Mar 23 15:39:24 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:39:24 2024: nurse 6 is ready for their client
+Sat Mar 23 15:39:24 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:39:24 2024: client 56 leaves the clinic after getting shot.
+Sat Mar 23 15:39:24 2024: client 59 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:39:24 2024: client 59 is ready for the vaccination from nurse 1
+Sat Mar 23 15:39:24 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:39:25 2024: client 164 is registered. 
+Sat Mar 23 15:39:25 2024: client 164 is walking to the nurse station queue.
+Sat Mar 23 15:39:26 2024: client 163 is registered. 
+Sat Mar 23 15:39:26 2024: client 163 is walking to the nurse station queue.
+Sat Mar 23 15:39:26 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:39:26 2024: client 55 leaves the clinic after getting shot.
+Sat Mar 23 15:39:26 2024: nurse 7 is ready for their client
+Sat Mar 23 15:39:26 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:39:26 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:39:26 2024: nurse 4 is ready for their client
+Sat Mar 23 15:39:26 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:39:26 2024: client 65 leaves the clinic after getting shot.
+Sat Mar 23 15:39:26 2024: client 114 is registered. 
+Sat Mar 23 15:39:26 2024: client 114 is walking to the nurse station queue.
+Sat Mar 23 15:39:26 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:39:26 2024: client 150 leaves the clinic after getting shot.
+Sat Mar 23 15:39:26 2024: nurse 0 is ready for their client
+Sat Mar 23 15:39:26 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:39:29 2024: client 111 is registered. 
+Sat Mar 23 15:39:29 2024: client 111 is walking to the nurse station queue.
+Sat Mar 23 15:39:29 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:39:29 2024: client 59 leaves the clinic after getting shot.
+Sat Mar 23 15:39:29 2024: nurse 1 is ready for their client
+Sat Mar 23 15:39:29 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:39:29 2024: client 26 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:39:29 2024: client 26 is ready for the vaccination from nurse 8
+Sat Mar 23 15:39:29 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:39:30 2024: client 164 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:39:30 2024: client 164 is ready for the vaccination from nurse 5
+Sat Mar 23 15:39:30 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:39:30 2024: client 155 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:39:30 2024: client 155 is ready for the vaccination from nurse 2
+Sat Mar 23 15:39:30 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:39:30 2024: client 114 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:39:30 2024: client 114 is ready for the vaccination from nurse 3
+Sat Mar 23 15:39:30 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:39:31 2024: client 28 is registered. 
+Sat Mar 23 15:39:31 2024: client 28 is walking to the nurse station queue.
+Sat Mar 23 15:39:32 2024: client 158 is registered. 
+Sat Mar 23 15:39:32 2024: client 158 is walking to the nurse station queue.
+Sat Mar 23 15:39:32 2024: client 33 is registered. 
+Sat Mar 23 15:39:32 2024: client 33 is walking to the nurse station queue.
+Sat Mar 23 15:39:34 2024: client 111 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:39:34 2024: client 111 is ready for the vaccination from nurse 9
+Sat Mar 23 15:39:34 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:39:34 2024: client 119 is registered. 
+Sat Mar 23 15:39:34 2024: client 119 is walking to the nurse station queue.
+Sat Mar 23 15:39:34 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:39:34 2024: nurse 8 is ready for their client
+Sat Mar 23 15:39:34 2024: client 26 leaves the clinic after getting shot.
+Sat Mar 23 15:39:34 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:39:35 2024: client 163 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:39:35 2024: client 163 is ready for the vaccination from nurse 6
+Sat Mar 23 15:39:35 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:39:35 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:39:35 2024: nurse 5 is ready for their client
+Sat Mar 23 15:39:35 2024: client 164 leaves the clinic after getting shot.
+Sat Mar 23 15:39:35 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:39:35 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:39:35 2024: client 155 leaves the clinic after getting shot.
+Sat Mar 23 15:39:35 2024: nurse 2 is ready for their client
+Sat Mar 23 15:39:35 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:39:35 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:39:35 2024: client 114 leaves the clinic after getting shot.
+Sat Mar 23 15:39:35 2024: nurse 3 is ready for their client
+Sat Mar 23 15:39:35 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:39:35 2024: client 33 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:39:35 2024: client 33 is ready for the vaccination from nurse 7
+Sat Mar 23 15:39:35 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:39:36 2024: client 158 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:39:36 2024: client 158 is ready for the vaccination from nurse 4
+Sat Mar 23 15:39:36 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:39:37 2024: client 28 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:39:37 2024: client 28 is ready for the vaccination from nurse 0
+Sat Mar 23 15:39:37 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:39:38 2024: client 10 is registered. 
+Sat Mar 23 15:39:38 2024: client 10 is walking to the nurse station queue.
+Sat Mar 23 15:39:39 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:39:39 2024: client 111 leaves the clinic after getting shot.
+Sat Mar 23 15:39:39 2024: nurse 9 is ready for their client
+Sat Mar 23 15:39:39 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:39:39 2024: client 154 is registered. 
+Sat Mar 23 15:39:39 2024: client 154 is walking to the nurse station queue.
+Sat Mar 23 15:39:40 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:39:40 2024: client 163 leaves the clinic after getting shot.
+Sat Mar 23 15:39:40 2024: nurse 6 is ready for their client
+Sat Mar 23 15:39:40 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:39:40 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:39:40 2024: client 33 leaves the clinic after getting shot.
+Sat Mar 23 15:39:40 2024: nurse 7 is ready for their client
+Sat Mar 23 15:39:40 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:39:41 2024: client 140 is registered. 
+Sat Mar 23 15:39:41 2024: client 140 is walking to the nurse station queue.
+Sat Mar 23 15:39:41 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:39:41 2024: nurse 4 is ready for their client
+Sat Mar 23 15:39:41 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:39:41 2024: client 158 leaves the clinic after getting shot.
+Sat Mar 23 15:39:42 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:39:42 2024: nurse 0 is ready for their client
+Sat Mar 23 15:39:42 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:39:42 2024: client 28 leaves the clinic after getting shot.
+Sat Mar 23 15:39:42 2024: client 1 is registered. 
+Sat Mar 23 15:39:42 2024: client 1 is walking to the nurse station queue.
+Sat Mar 23 15:39:43 2024: client 10 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:39:43 2024: client 10 is ready for the vaccination from nurse 1
+Sat Mar 23 15:39:43 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:39:43 2024: client 146 is registered. 
+Sat Mar 23 15:39:43 2024: client 146 is walking to the nurse station queue.
+Sat Mar 23 15:39:44 2024: client 119 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:39:44 2024: client 119 is ready for the vaccination from nurse 8
+Sat Mar 23 15:39:44 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:39:45 2024: client 154 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:39:45 2024: client 154 is ready for the vaccination from nurse 5
+Sat Mar 23 15:39:45 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:39:47 2024: client 140 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:39:47 2024: client 140 is ready for the vaccination from nurse 2
+Sat Mar 23 15:39:47 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:39:48 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:39:48 2024: client 10 leaves the clinic after getting shot.
+Sat Mar 23 15:39:48 2024: nurse 1 is ready for their client
+Sat Mar 23 15:39:48 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:39:48 2024: client 103 is registered. 
+Sat Mar 23 15:39:48 2024: client 103 is walking to the nurse station queue.
+Sat Mar 23 15:39:48 2024: client 43 is registered. 
+Sat Mar 23 15:39:48 2024: client 43 is walking to the nurse station queue.
+Sat Mar 23 15:39:49 2024: client 68 is registered. 
+Sat Mar 23 15:39:49 2024: client 68 is walking to the nurse station queue.
+Sat Mar 23 15:39:49 2024: client 1 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:39:49 2024: client 1 is ready for the vaccination from nurse 3
+Sat Mar 23 15:39:49 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:39:49 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:39:49 2024: nurse 8 is ready for their client
+Sat Mar 23 15:39:49 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:39:49 2024: client 119 leaves the clinic after getting shot.
+Sat Mar 23 15:39:50 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:39:50 2024: client 154 leaves the clinic after getting shot.
+Sat Mar 23 15:39:50 2024: nurse 5 is ready for their client
+Sat Mar 23 15:39:50 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:39:50 2024: client 146 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:39:50 2024: client 146 is ready for the vaccination from nurse 9
+Sat Mar 23 15:39:50 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:39:52 2024: client 167 is registered. 
+Sat Mar 23 15:39:52 2024: client 167 is walking to the nurse station queue.
+Sat Mar 23 15:39:52 2024: client 38 is registered. 
+Sat Mar 23 15:39:52 2024: client 38 is walking to the nurse station queue.
+Sat Mar 23 15:39:52 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:39:52 2024: client 140 leaves the clinic after getting shot.
+Sat Mar 23 15:39:52 2024: nurse 2 is ready for their client
+Sat Mar 23 15:39:52 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:39:54 2024: client 68 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:39:54 2024: client 68 is ready for the vaccination from nurse 6
+Sat Mar 23 15:39:54 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:39:54 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:39:54 2024: client 1 leaves the clinic after getting shot.
+Sat Mar 23 15:39:54 2024: nurse 3 is ready for their client
+Sat Mar 23 15:39:54 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:39:55 2024: client 112 is registered. 
+Sat Mar 23 15:39:55 2024: client 112 is walking to the nurse station queue.
+Sat Mar 23 15:39:55 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:39:55 2024: client 146 leaves the clinic after getting shot.
+Sat Mar 23 15:39:55 2024: nurse 9 is ready for their client
+Sat Mar 23 15:39:55 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:39:55 2024: client 178 is registered. 
+Sat Mar 23 15:39:55 2024: client 178 is walking to the nurse station queue.
+Sat Mar 23 15:39:55 2024: client 81 is registered. 
+Sat Mar 23 15:39:55 2024: client 81 is walking to the nurse station queue.
+Sat Mar 23 15:39:56 2024: client 167 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:39:56 2024: client 167 is ready for the vaccination from nurse 7
+Sat Mar 23 15:39:56 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:39:56 2024: client 103 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:39:56 2024: client 103 is ready for the vaccination from nurse 4
+Sat Mar 23 15:39:56 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:39:58 2024: client 43 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:39:58 2024: client 43 is ready for the vaccination from nurse 0
+Sat Mar 23 15:39:58 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:39:59 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:39:59 2024: client 68 leaves the clinic after getting shot.
+Sat Mar 23 15:39:59 2024: nurse 6 is ready for their client
+Sat Mar 23 15:39:59 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:39:59 2024: client 60 is registered. 
+Sat Mar 23 15:39:59 2024: client 60 is walking to the nurse station queue.
+Sat Mar 23 15:39:59 2024: client 38 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:39:59 2024: client 38 is ready for the vaccination from nurse 1
+Sat Mar 23 15:39:59 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:40:00 2024: client 178 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:40:00 2024: client 178 is ready for the vaccination from nurse 8
+Sat Mar 23 15:40:00 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:40:00 2024: client 52 is registered. 
+Sat Mar 23 15:40:00 2024: client 52 is walking to the nurse station queue.
+Sat Mar 23 15:40:00 2024: client 124 is registered. 
+Sat Mar 23 15:40:00 2024: client 124 is walking to the nurse station queue.
+Sat Mar 23 15:40:01 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:40:01 2024: client 167 leaves the clinic after getting shot.
+Sat Mar 23 15:40:01 2024: nurse 7 is ready for their client
+Sat Mar 23 15:40:01 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:40:01 2024: client 47 is registered. 
+Sat Mar 23 15:40:01 2024: client 47 is walking to the nurse station queue.
+Sat Mar 23 15:40:01 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:40:01 2024: nurse 4 is ready for their client
+Sat Mar 23 15:40:01 2024: client 103 leaves the clinic after getting shot.
+Sat Mar 23 15:40:01 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:40:02 2024: client 112 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:40:02 2024: client 112 is ready for the vaccination from nurse 5
+Sat Mar 23 15:40:02 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:40:03 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:40:03 2024: nurse 0 is ready for their client
+Sat Mar 23 15:40:03 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:40:03 2024: client 43 leaves the clinic after getting shot.
+Sat Mar 23 15:40:03 2024: client 168 is registered. 
+Sat Mar 23 15:40:03 2024: client 168 is walking to the nurse station queue.
+Sat Mar 23 15:40:04 2024: client 81 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:40:04 2024: client 81 is ready for the vaccination from nurse 2
+Sat Mar 23 15:40:04 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:40:04 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:40:04 2024: client 38 leaves the clinic after getting shot.
+Sat Mar 23 15:40:04 2024: nurse 1 is ready for their client
+Sat Mar 23 15:40:04 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:40:05 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:40:05 2024: client 178 leaves the clinic after getting shot.
+Sat Mar 23 15:40:05 2024: nurse 8 is ready for their client
+Sat Mar 23 15:40:05 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:40:06 2024: client 47 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:40:06 2024: client 47 is ready for the vaccination from nurse 3
+Sat Mar 23 15:40:06 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:40:07 2024: client 91 is registered. 
+Sat Mar 23 15:40:07 2024: client 91 is walking to the nurse station queue.
+Sat Mar 23 15:40:07 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:40:07 2024: nurse 5 is ready for their client
+Sat Mar 23 15:40:07 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:40:07 2024: client 112 leaves the clinic after getting shot.
+Sat Mar 23 15:40:07 2024: client 88 is registered. 
+Sat Mar 23 15:40:07 2024: client 88 is walking to the nurse station queue.
+Sat Mar 23 15:40:09 2024: client 138 is registered. 
+Sat Mar 23 15:40:09 2024: client 138 is walking to the nurse station queue.
+Sat Mar 23 15:40:09 2024: client 60 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:40:09 2024: client 60 is ready for the vaccination from nurse 9
+Sat Mar 23 15:40:09 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:40:09 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:40:09 2024: client 81 leaves the clinic after getting shot.
+Sat Mar 23 15:40:09 2024: nurse 2 is ready for their client
+Sat Mar 23 15:40:09 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:40:09 2024: client 52 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:40:09 2024: client 52 is ready for the vaccination from nurse 6
+Sat Mar 23 15:40:09 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:40:10 2024: client 32 is registered. 
+Sat Mar 23 15:40:10 2024: client 32 is walking to the nurse station queue.
+Sat Mar 23 15:40:10 2024: client 124 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:40:10 2024: client 124 is ready for the vaccination from nurse 7
+Sat Mar 23 15:40:10 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:40:10 2024: client 91 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:40:10 2024: client 91 is ready for the vaccination from nurse 4
+Sat Mar 23 15:40:10 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:40:11 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:40:11 2024: client 47 leaves the clinic after getting shot.
+Sat Mar 23 15:40:11 2024: nurse 3 is ready for their client
+Sat Mar 23 15:40:11 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:40:12 2024: client 168 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:40:12 2024: client 168 is ready for the vaccination from nurse 0
+Sat Mar 23 15:40:12 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:40:13 2024: client 71 is registered. 
+Sat Mar 23 15:40:13 2024: client 71 is walking to the nurse station queue.
+Sat Mar 23 15:40:14 2024: client 113 is registered. 
+Sat Mar 23 15:40:14 2024: client 113 is walking to the nurse station queue.
+Sat Mar 23 15:40:14 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:40:14 2024: nurse 9 is ready for their client
+Sat Mar 23 15:40:14 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:40:14 2024: client 60 leaves the clinic after getting shot.
+Sat Mar 23 15:40:14 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:40:14 2024: nurse 6 is ready for their client
+Sat Mar 23 15:40:14 2024: client 52 leaves the clinic after getting shot.
+Sat Mar 23 15:40:14 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:40:15 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:40:15 2024: client 124 leaves the clinic after getting shot.
+Sat Mar 23 15:40:15 2024: nurse 7 is ready for their client
+Sat Mar 23 15:40:15 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:40:15 2024: client 88 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:40:15 2024: client 88 is ready for the vaccination from nurse 1
+Sat Mar 23 15:40:15 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:40:15 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:40:15 2024: client 91 leaves the clinic after getting shot.
+Sat Mar 23 15:40:15 2024: nurse 4 is ready for their client
+Sat Mar 23 15:40:15 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:40:16 2024: client 11 is registered. 
+Sat Mar 23 15:40:16 2024: client 11 is walking to the nurse station queue.
+Sat Mar 23 15:40:16 2024: client 32 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:40:16 2024: client 32 is ready for the vaccination from nurse 8
+Sat Mar 23 15:40:16 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:40:17 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:40:17 2024: nurse 0 is ready for their client
+Sat Mar 23 15:40:17 2024: client 168 leaves the clinic after getting shot.
+Sat Mar 23 15:40:17 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:40:17 2024: client 110 is registered. 
+Sat Mar 23 15:40:17 2024: client 110 is walking to the nurse station queue.
+Sat Mar 23 15:40:18 2024: client 71 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:40:18 2024: client 71 is ready for the vaccination from nurse 5
+Sat Mar 23 15:40:18 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:40:18 2024: client 138 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:40:18 2024: client 138 is ready for the vaccination from nurse 2
+Sat Mar 23 15:40:18 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:40:20 2024: client 123 is registered. 
+Sat Mar 23 15:40:20 2024: client 123 is walking to the nurse station queue.
+Sat Mar 23 15:40:20 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:40:20 2024: nurse 1 is ready for their client
+Sat Mar 23 15:40:20 2024: client 88 leaves the clinic after getting shot.
+Sat Mar 23 15:40:20 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:40:20 2024: client 11 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:40:20 2024: client 11 is ready for the vaccination from nurse 3
+Sat Mar 23 15:40:20 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:40:21 2024: client 19 is registered. 
+Sat Mar 23 15:40:21 2024: client 19 is walking to the nurse station queue.
+Sat Mar 23 15:40:21 2024: client 113 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:40:21 2024: client 113 is ready for the vaccination from nurse 9
+Sat Mar 23 15:40:21 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:40:21 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:40:21 2024: nurse 8 is ready for their client
+Sat Mar 23 15:40:21 2024: client 32 leaves the clinic after getting shot.
+Sat Mar 23 15:40:21 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:40:22 2024: client 5 is registered. 
+Sat Mar 23 15:40:22 2024: client 5 is walking to the nurse station queue.
+Sat Mar 23 15:40:22 2024: client 132 is registered. 
+Sat Mar 23 15:40:22 2024: client 132 is walking to the nurse station queue.
+Sat Mar 23 15:40:23 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:40:23 2024: client 71 leaves the clinic after getting shot.
+Sat Mar 23 15:40:23 2024: nurse 5 is ready for their client
+Sat Mar 23 15:40:23 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:40:23 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:40:23 2024: nurse 2 is ready for their client
+Sat Mar 23 15:40:23 2024: client 138 leaves the clinic after getting shot.
+Sat Mar 23 15:40:23 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:40:25 2024: client 110 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:40:25 2024: client 110 is ready for the vaccination from nurse 6
+Sat Mar 23 15:40:25 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:40:25 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:40:25 2024: client 11 leaves the clinic after getting shot.
+Sat Mar 23 15:40:25 2024: nurse 3 is ready for their client
+Sat Mar 23 15:40:25 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:40:26 2024: client 5 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:40:26 2024: client 5 is ready for the vaccination from nurse 7
+Sat Mar 23 15:40:26 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:40:26 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:40:26 2024: nurse 9 is ready for their client
+Sat Mar 23 15:40:26 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:40:26 2024: client 113 leaves the clinic after getting shot.
+Sat Mar 23 15:40:27 2024: client 31 is registered. 
+Sat Mar 23 15:40:27 2024: client 31 is walking to the nurse station queue.
+Sat Mar 23 15:40:28 2024: client 171 is registered. 
+Sat Mar 23 15:40:28 2024: client 171 is walking to the nurse station queue.
+Sat Mar 23 15:40:28 2024: client 123 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:40:28 2024: client 123 is ready for the vaccination from nurse 4
+Sat Mar 23 15:40:28 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:40:28 2024: client 128 is registered. 
+Sat Mar 23 15:40:28 2024: client 128 is walking to the nurse station queue.
+Sat Mar 23 15:40:29 2024: client 165 is registered. 
+Sat Mar 23 15:40:29 2024: client 165 is walking to the nurse station queue.
+Sat Mar 23 15:40:30 2024: client 19 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:40:30 2024: client 19 is ready for the vaccination from nurse 0
+Sat Mar 23 15:40:30 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:40:30 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:40:30 2024: client 110 leaves the clinic after getting shot.
+Sat Mar 23 15:40:30 2024: nurse 6 is ready for their client
+Sat Mar 23 15:40:30 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:40:30 2024: client 132 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:40:30 2024: client 132 is ready for the vaccination from nurse 1
+Sat Mar 23 15:40:30 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:40:31 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:40:31 2024: client 5 leaves the clinic after getting shot.
+Sat Mar 23 15:40:31 2024: nurse 7 is ready for their client
+Sat Mar 23 15:40:31 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:40:31 2024: client 171 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:40:31 2024: client 171 is ready for the vaccination from nurse 8
+Sat Mar 23 15:40:31 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:40:32 2024: client 128 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:40:32 2024: client 128 is ready for the vaccination from nurse 5
+Sat Mar 23 15:40:32 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:40:32 2024: client 31 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:40:32 2024: client 31 is ready for the vaccination from nurse 2
+Sat Mar 23 15:40:32 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:40:33 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:40:33 2024: client 123 leaves the clinic after getting shot.
+Sat Mar 23 15:40:33 2024: nurse 4 is ready for their client
+Sat Mar 23 15:40:33 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:40:35 2024: client 172 is registered. 
+Sat Mar 23 15:40:35 2024: client 172 is walking to the nurse station queue.
+Sat Mar 23 15:40:35 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:40:35 2024: client 19 leaves the clinic after getting shot.
+Sat Mar 23 15:40:35 2024: nurse 0 is ready for their client
+Sat Mar 23 15:40:35 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:40:35 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:40:35 2024: nurse 1 is ready for their client
+Sat Mar 23 15:40:35 2024: client 132 leaves the clinic after getting shot.
+Sat Mar 23 15:40:35 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:40:35 2024: client 165 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:40:35 2024: client 165 is ready for the vaccination from nurse 3
+Sat Mar 23 15:40:35 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:40:36 2024: client 160 is registered. 
+Sat Mar 23 15:40:36 2024: client 160 is walking to the nurse station queue.
+Sat Mar 23 15:40:36 2024: client 133 is registered. 
+Sat Mar 23 15:40:36 2024: client 133 is walking to the nurse station queue.
+Sat Mar 23 15:40:36 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:40:36 2024: client 171 leaves the clinic after getting shot.
+Sat Mar 23 15:40:36 2024: nurse 8 is walking to get a vial. 
+Sat Mar 23 15:40:37 2024: client 46 is registered. 
+Sat Mar 23 15:40:37 2024: client 46 is walking to the nurse station queue.
+Sat Mar 23 15:40:37 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:40:37 2024: client 128 leaves the clinic after getting shot.
+Sat Mar 23 15:40:37 2024: nurse 5 is walking to get a vial. 
+Sat Mar 23 15:40:37 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:40:37 2024: client 31 leaves the clinic after getting shot.
+Sat Mar 23 15:40:37 2024: nurse 2 is walking to get a vial. 
+Sat Mar 23 15:40:38 2024: nurse 8 got vial. Number of vials left: 19 
+Sat Mar 23 15:40:39 2024: nurse 5 got vial. Number of vials left: 18 
+Sat Mar 23 15:40:39 2024: client 36 is registered. 
+Sat Mar 23 15:40:39 2024: client 36 is walking to the nurse station queue.
+Sat Mar 23 15:40:39 2024: client 172 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:40:39 2024: client 172 is ready for the vaccination from nurse 9
+Sat Mar 23 15:40:39 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:40:40 2024: nurse 8 is ready for their client
+Sat Mar 23 15:40:40 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:40:40 2024: client 2 is registered. 
+Sat Mar 23 15:40:40 2024: client 2 is walking to the nurse station queue.
+Sat Mar 23 15:40:40 2024: nurse 2 got vial. Number of vials left: 17 
+Sat Mar 23 15:40:40 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:40:40 2024: client 165 leaves the clinic after getting shot.
+Sat Mar 23 15:40:40 2024: nurse 3 is walking to get a vial. 
+Sat Mar 23 15:40:41 2024: client 143 is registered. 
+Sat Mar 23 15:40:41 2024: client 143 is walking to the nurse station queue.
+Sat Mar 23 15:40:41 2024: nurse 5 is ready for their client
+Sat Mar 23 15:40:41 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:40:41 2024: client 160 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:40:41 2024: client 160 is ready for the vaccination from nurse 6
+Sat Mar 23 15:40:41 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:40:41 2024: client 133 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:40:41 2024: client 133 is ready for the vaccination from nurse 7
+Sat Mar 23 15:40:41 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:40:41 2024: client 62 is registered. 
+Sat Mar 23 15:40:41 2024: client 62 is walking to the nurse station queue.
+Sat Mar 23 15:40:42 2024: nurse 3 got vial. Number of vials left: 16 
+Sat Mar 23 15:40:42 2024: nurse 2 is ready for their client
+Sat Mar 23 15:40:42 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:40:44 2024: client 80 is registered. 
+Sat Mar 23 15:40:44 2024: client 80 is walking to the nurse station queue.
+Sat Mar 23 15:40:44 2024: client 46 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:40:44 2024: client 46 is ready for the vaccination from nurse 4
+Sat Mar 23 15:40:44 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:40:44 2024: client 143 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:40:44 2024: client 143 is ready for the vaccination from nurse 0
+Sat Mar 23 15:40:44 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:40:44 2024: nurse 3 is ready for their client
+Sat Mar 23 15:40:44 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:40:44 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:40:44 2024: client 172 leaves the clinic after getting shot.
+Sat Mar 23 15:40:44 2024: nurse 9 is walking to get a vial. 
+Sat Mar 23 15:40:45 2024: client 2 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:40:45 2024: client 2 is ready for the vaccination from nurse 1
+Sat Mar 23 15:40:45 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:40:46 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:40:46 2024: client 160 leaves the clinic after getting shot.
+Sat Mar 23 15:40:46 2024: nurse 6 is walking to get a vial. 
+Sat Mar 23 15:40:46 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:40:46 2024: nurse 7 is walking to get a vial. 
+Sat Mar 23 15:40:46 2024: client 133 leaves the clinic after getting shot.
+Sat Mar 23 15:40:47 2024: client 21 is registered. 
+Sat Mar 23 15:40:47 2024: client 21 is walking to the nurse station queue.
+Sat Mar 23 15:40:47 2024: nurse 7 got vial. Number of vials left: 15 
+Sat Mar 23 15:40:47 2024: nurse 6 got vial. Number of vials left: 14 
+Sat Mar 23 15:40:47 2024: nurse 9 got vial. Number of vials left: 13 
+Sat Mar 23 15:40:48 2024: client 89 is registered. 
+Sat Mar 23 15:40:48 2024: client 89 is walking to the nurse station queue.
+Sat Mar 23 15:40:48 2024: client 51 is registered. 
+Sat Mar 23 15:40:48 2024: client 51 is walking to the nurse station queue.
+Sat Mar 23 15:40:48 2024: nurse 7 is ready for their client
+Sat Mar 23 15:40:48 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:40:49 2024: nurse 6 is ready for their client
+Sat Mar 23 15:40:49 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:40:49 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:40:49 2024: client 46 leaves the clinic after getting shot.
+Sat Mar 23 15:40:49 2024: nurse 4 is walking to get a vial. 
+Sat Mar 23 15:40:49 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:40:49 2024: client 143 leaves the clinic after getting shot.
+Sat Mar 23 15:40:49 2024: nurse 0 is walking to get a vial. 
+Sat Mar 23 15:40:49 2024: client 36 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:40:49 2024: client 36 is ready for the vaccination from nurse 8
+Sat Mar 23 15:40:49 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:40:50 2024: client 62 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:40:50 2024: client 62 is ready for the vaccination from nurse 5
+Sat Mar 23 15:40:50 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:40:50 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:40:50 2024: client 2 leaves the clinic after getting shot.
+Sat Mar 23 15:40:50 2024: nurse 1 is walking to get a vial. 
+Sat Mar 23 15:40:50 2024: nurse 9 is ready for their client
+Sat Mar 23 15:40:50 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:40:51 2024: client 80 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:40:51 2024: client 80 is ready for the vaccination from nurse 2
+Sat Mar 23 15:40:51 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:40:51 2024: nurse 4 got vial. Number of vials left: 12 
+Sat Mar 23 15:40:51 2024: nurse 0 got vial. Number of vials left: 11 
+Sat Mar 23 15:40:52 2024: client 21 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:40:52 2024: client 21 is ready for the vaccination from nurse 3
+Sat Mar 23 15:40:52 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:40:52 2024: client 118 is registered. 
+Sat Mar 23 15:40:52 2024: client 118 is walking to the nurse station queue.
+Sat Mar 23 15:40:52 2024: client 64 is registered. 
+Sat Mar 23 15:40:52 2024: client 64 is walking to the nurse station queue.
+Sat Mar 23 15:40:52 2024: nurse 1 got vial. Number of vials left: 10 
+Sat Mar 23 15:40:53 2024: client 89 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:40:53 2024: client 89 is ready for the vaccination from nurse 7
+Sat Mar 23 15:40:53 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:40:53 2024: nurse 0 is ready for their client
+Sat Mar 23 15:40:53 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:40:54 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:40:54 2024: client 36 leaves the clinic after getting shot.
+Sat Mar 23 15:40:54 2024: nurse 8 is ready for their client
+Sat Mar 23 15:40:54 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:40:54 2024: nurse 4 is ready for their client
+Sat Mar 23 15:40:54 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:40:55 2024: client 139 is registered. 
+Sat Mar 23 15:40:55 2024: client 139 is walking to the nurse station queue.
+Sat Mar 23 15:40:55 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:40:55 2024: nurse 5 is ready for their client
+Sat Mar 23 15:40:55 2024: client 62 leaves the clinic after getting shot.
+Sat Mar 23 15:40:55 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:40:55 2024: nurse 1 is ready for their client
+Sat Mar 23 15:40:55 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:40:55 2024: client 51 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:40:55 2024: client 51 is ready for the vaccination from nurse 6
+Sat Mar 23 15:40:55 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:40:56 2024: client 92 is registered. 
+Sat Mar 23 15:40:56 2024: client 92 is walking to the nurse station queue.
+Sat Mar 23 15:40:56 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:40:56 2024: nurse 2 is ready for their client
+Sat Mar 23 15:40:56 2024: client 80 leaves the clinic after getting shot.
+Sat Mar 23 15:40:56 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:40:57 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:40:57 2024: nurse 3 is ready for their client
+Sat Mar 23 15:40:57 2024: client 21 leaves the clinic after getting shot.
+Sat Mar 23 15:40:57 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:40:57 2024: client 108 is registered. 
+Sat Mar 23 15:40:57 2024: client 108 is walking to the nurse station queue.
+Sat Mar 23 15:40:57 2024: client 64 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:40:57 2024: client 64 is ready for the vaccination from nurse 9
+Sat Mar 23 15:40:57 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:40:58 2024: client 72 is registered. 
+Sat Mar 23 15:40:58 2024: client 72 is walking to the nurse station queue.
+Sat Mar 23 15:40:58 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:40:58 2024: nurse 7 is ready for their client
+Sat Mar 23 15:40:58 2024: client 89 leaves the clinic after getting shot.
+Sat Mar 23 15:40:58 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:40:59 2024: client 84 is registered. 
+Sat Mar 23 15:40:59 2024: client 84 is walking to the nurse station queue.
+Sat Mar 23 15:40:59 2024: client 101 is registered. 
+Sat Mar 23 15:40:59 2024: client 101 is walking to the nurse station queue.
+Sat Mar 23 15:40:59 2024: client 118 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:40:59 2024: client 118 is ready for the vaccination from nurse 0
+Sat Mar 23 15:40:59 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:41:00 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:41:00 2024: client 51 leaves the clinic after getting shot.
+Sat Mar 23 15:41:00 2024: nurse 6 is ready for their client
+Sat Mar 23 15:41:00 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:41:01 2024: client 22 is registered. 
+Sat Mar 23 15:41:01 2024: client 22 is walking to the nurse station queue.
+Sat Mar 23 15:41:01 2024: client 108 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:41:01 2024: client 108 is ready for the vaccination from nurse 8
+Sat Mar 23 15:41:01 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:41:02 2024: client 92 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:41:02 2024: client 92 is ready for the vaccination from nurse 4
+Sat Mar 23 15:41:02 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:41:02 2024: client 139 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:41:02 2024: client 139 is ready for the vaccination from nurse 5
+Sat Mar 23 15:41:02 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:41:02 2024: client 84 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:41:02 2024: client 84 is ready for the vaccination from nurse 1
+Sat Mar 23 15:41:02 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:41:02 2024: client 37 is registered. 
+Sat Mar 23 15:41:02 2024: client 37 is walking to the nurse station queue.
+Sat Mar 23 15:41:02 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:41:02 2024: nurse 9 is ready for their client
+Sat Mar 23 15:41:02 2024: client 64 leaves the clinic after getting shot.
+Sat Mar 23 15:41:02 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:41:04 2024: client 101 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:41:04 2024: client 101 is ready for the vaccination from nurse 2
+Sat Mar 23 15:41:04 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:41:04 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:41:04 2024: client 118 leaves the clinic after getting shot.
+Sat Mar 23 15:41:04 2024: nurse 0 is ready for their client
+Sat Mar 23 15:41:04 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:41:05 2024: client 34 is registered. 
+Sat Mar 23 15:41:05 2024: client 34 is walking to the nurse station queue.
+Sat Mar 23 15:41:05 2024: client 98 is registered. 
+Sat Mar 23 15:41:05 2024: client 98 is walking to the nurse station queue.
+Sat Mar 23 15:41:06 2024: client 72 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:41:06 2024: client 72 is ready for the vaccination from nurse 3
+Sat Mar 23 15:41:06 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:41:06 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:41:06 2024: nurse 8 is ready for their client
+Sat Mar 23 15:41:06 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:41:06 2024: client 108 leaves the clinic after getting shot.
+Sat Mar 23 15:41:07 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:41:07 2024: client 92 leaves the clinic after getting shot.
+Sat Mar 23 15:41:07 2024: nurse 4 is ready for their client
+Sat Mar 23 15:41:07 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:41:07 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:41:07 2024: client 139 leaves the clinic after getting shot.
+Sat Mar 23 15:41:07 2024: nurse 5 is ready for their client
+Sat Mar 23 15:41:07 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:41:07 2024: client 104 is registered. 
+Sat Mar 23 15:41:07 2024: client 104 is walking to the nurse station queue.
+Sat Mar 23 15:41:07 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:41:07 2024: client 84 leaves the clinic after getting shot.
+Sat Mar 23 15:41:07 2024: nurse 1 is ready for their client
+Sat Mar 23 15:41:07 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:41:09 2024: client 135 is registered. 
+Sat Mar 23 15:41:09 2024: client 135 is walking to the nurse station queue.
+Sat Mar 23 15:41:09 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:41:09 2024: client 101 leaves the clinic after getting shot.
+Sat Mar 23 15:41:09 2024: nurse 2 is ready for their client
+Sat Mar 23 15:41:09 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:41:10 2024: client 37 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:41:10 2024: client 37 is ready for the vaccination from nurse 7
+Sat Mar 23 15:41:10 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:41:11 2024: client 104 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:41:11 2024: client 104 is ready for the vaccination from nurse 6
+Sat Mar 23 15:41:11 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:41:11 2024: client 22 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:41:11 2024: client 22 is ready for the vaccination from nurse 9
+Sat Mar 23 15:41:11 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:41:11 2024: client 34 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:41:11 2024: client 34 is ready for the vaccination from nurse 0
+Sat Mar 23 15:41:11 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:41:11 2024: client 109 is registered. 
+Sat Mar 23 15:41:11 2024: client 109 is walking to the nurse station queue.
+Sat Mar 23 15:41:11 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:41:11 2024: client 72 leaves the clinic after getting shot.
+Sat Mar 23 15:41:11 2024: nurse 3 is ready for their client
+Sat Mar 23 15:41:11 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:41:12 2024: client 162 is registered. 
+Sat Mar 23 15:41:12 2024: client 162 is walking to the nurse station queue.
+Sat Mar 23 15:41:14 2024: client 76 is registered. 
+Sat Mar 23 15:41:14 2024: client 76 is walking to the nurse station queue.
+Sat Mar 23 15:41:14 2024: client 86 is registered. 
+Sat Mar 23 15:41:14 2024: client 86 is walking to the nurse station queue.
+Sat Mar 23 15:41:15 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:41:15 2024: client 37 leaves the clinic after getting shot.
+Sat Mar 23 15:41:15 2024: nurse 7 is ready for their client
+Sat Mar 23 15:41:15 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:41:15 2024: client 98 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:41:15 2024: client 98 is ready for the vaccination from nurse 8
+Sat Mar 23 15:41:15 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:41:16 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:41:16 2024: client 104 leaves the clinic after getting shot.
+Sat Mar 23 15:41:16 2024: nurse 6 is ready for their client
+Sat Mar 23 15:41:16 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:41:16 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:41:16 2024: client 22 leaves the clinic after getting shot.
+Sat Mar 23 15:41:16 2024: nurse 9 is ready for their client
+Sat Mar 23 15:41:16 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:41:16 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:41:16 2024: client 34 leaves the clinic after getting shot.
+Sat Mar 23 15:41:16 2024: nurse 0 is ready for their client
+Sat Mar 23 15:41:16 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:41:16 2024: client 109 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:41:16 2024: client 109 is ready for the vaccination from nurse 4
+Sat Mar 23 15:41:16 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:41:17 2024: client 14 is registered. 
+Sat Mar 23 15:41:17 2024: client 14 is walking to the nurse station queue.
+Sat Mar 23 15:41:18 2024: client 86 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:41:18 2024: client 86 is ready for the vaccination from nurse 5
+Sat Mar 23 15:41:18 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:41:18 2024: client 131 is registered. 
+Sat Mar 23 15:41:18 2024: client 131 is walking to the nurse station queue.
+Sat Mar 23 15:41:18 2024: client 135 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:41:18 2024: client 135 is ready for the vaccination from nurse 1
+Sat Mar 23 15:41:18 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:41:19 2024: client 76 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:41:19 2024: client 76 is ready for the vaccination from nurse 2
+Sat Mar 23 15:41:19 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:41:20 2024: client 149 is registered. 
+Sat Mar 23 15:41:20 2024: client 149 is walking to the nurse station queue.
+Sat Mar 23 15:41:20 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:41:20 2024: client 98 leaves the clinic after getting shot.
+Sat Mar 23 15:41:20 2024: nurse 8 is ready for their client
+Sat Mar 23 15:41:20 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:41:21 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:41:21 2024: client 109 leaves the clinic after getting shot.
+Sat Mar 23 15:41:21 2024: nurse 4 is ready for their client
+Sat Mar 23 15:41:21 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:41:21 2024: client 162 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:41:21 2024: client 162 is ready for the vaccination from nurse 3
+Sat Mar 23 15:41:21 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:41:21 2024: client 14 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:41:21 2024: client 14 is ready for the vaccination from nurse 7
+Sat Mar 23 15:41:21 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:41:23 2024: client 131 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:41:23 2024: client 131 is ready for the vaccination from nurse 6
+Sat Mar 23 15:41:23 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:41:23 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:41:23 2024: client 86 leaves the clinic after getting shot.
+Sat Mar 23 15:41:23 2024: nurse 5 is ready for their client
+Sat Mar 23 15:41:23 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:41:23 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:41:23 2024: client 135 leaves the clinic after getting shot.
+Sat Mar 23 15:41:23 2024: nurse 1 is ready for their client
+Sat Mar 23 15:41:23 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:41:24 2024: client 70 is registered. 
+Sat Mar 23 15:41:24 2024: client 70 is walking to the nurse station queue.
+Sat Mar 23 15:41:24 2024: client 74 is registered. 
+Sat Mar 23 15:41:24 2024: client 74 is walking to the nurse station queue.
+Sat Mar 23 15:41:24 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:41:24 2024: client 76 leaves the clinic after getting shot.
+Sat Mar 23 15:41:24 2024: nurse 2 is ready for their client
+Sat Mar 23 15:41:24 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:41:25 2024: client 141 is registered. 
+Sat Mar 23 15:41:25 2024: client 141 is walking to the nurse station queue.
+Sat Mar 23 15:41:25 2024: client 49 is registered. 
+Sat Mar 23 15:41:25 2024: client 49 is walking to the nurse station queue.
+Sat Mar 23 15:41:26 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:41:26 2024: client 162 leaves the clinic after getting shot.
+Sat Mar 23 15:41:26 2024: nurse 3 is ready for their client
+Sat Mar 23 15:41:26 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:41:26 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:41:26 2024: client 14 leaves the clinic after getting shot.
+Sat Mar 23 15:41:26 2024: nurse 7 is ready for their client
+Sat Mar 23 15:41:26 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:41:27 2024: client 41 is registered. 
+Sat Mar 23 15:41:27 2024: client 41 is walking to the nurse station queue.
+Sat Mar 23 15:41:28 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:41:28 2024: client 131 leaves the clinic after getting shot.
+Sat Mar 23 15:41:28 2024: nurse 6 is ready for their client
+Sat Mar 23 15:41:28 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:41:29 2024: client 149 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:41:29 2024: client 149 is ready for the vaccination from nurse 9
+Sat Mar 23 15:41:29 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:41:29 2024: client 49 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:41:29 2024: client 49 is ready for the vaccination from nurse 0
+Sat Mar 23 15:41:29 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:41:31 2024: client 70 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:41:31 2024: client 70 is ready for the vaccination from nurse 8
+Sat Mar 23 15:41:31 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:41:32 2024: client 126 is registered. 
+Sat Mar 23 15:41:32 2024: client 126 is walking to the nurse station queue.
+Sat Mar 23 15:41:34 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:41:34 2024: client 149 leaves the clinic after getting shot.
+Sat Mar 23 15:41:34 2024: nurse 9 is ready for their client
+Sat Mar 23 15:41:34 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:41:34 2024: client 74 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:41:34 2024: client 74 is ready for the vaccination from nurse 4
+Sat Mar 23 15:41:34 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:41:34 2024: client 48 is registered. 
+Sat Mar 23 15:41:34 2024: client 48 is walking to the nurse station queue.
+Sat Mar 23 15:41:34 2024: client 141 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:41:34 2024: client 141 is ready for the vaccination from nurse 5
+Sat Mar 23 15:41:34 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:41:34 2024: client 15 is registered. 
+Sat Mar 23 15:41:34 2024: client 15 is walking to the nurse station queue.
+Sat Mar 23 15:41:34 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:41:34 2024: client 49 leaves the clinic after getting shot.
+Sat Mar 23 15:41:34 2024: nurse 0 is ready for their client
+Sat Mar 23 15:41:34 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:41:35 2024: client 41 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:41:35 2024: client 41 is ready for the vaccination from nurse 1
+Sat Mar 23 15:41:35 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:41:36 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:41:36 2024: client 70 leaves the clinic after getting shot.
+Sat Mar 23 15:41:36 2024: nurse 8 is ready for their client
+Sat Mar 23 15:41:36 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:41:37 2024: client 9 is registered. 
+Sat Mar 23 15:41:37 2024: client 9 is walking to the nurse station queue.
+Sat Mar 23 15:41:38 2024: client 48 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:41:38 2024: client 48 is ready for the vaccination from nurse 2
+Sat Mar 23 15:41:38 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:41:39 2024: client 115 is registered. 
+Sat Mar 23 15:41:39 2024: client 115 is walking to the nurse station queue.
+Sat Mar 23 15:41:39 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:41:39 2024: client 74 leaves the clinic after getting shot.
+Sat Mar 23 15:41:39 2024: nurse 4 is ready for their client
+Sat Mar 23 15:41:39 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:41:39 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:41:39 2024: client 141 leaves the clinic after getting shot.
+Sat Mar 23 15:41:39 2024: nurse 5 is ready for their client
+Sat Mar 23 15:41:39 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:41:39 2024: client 126 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:41:39 2024: client 126 is ready for the vaccination from nurse 3
+Sat Mar 23 15:41:39 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:41:40 2024: client 9 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:41:40 2024: client 9 is ready for the vaccination from nurse 7
+Sat Mar 23 15:41:40 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:41:40 2024: client 44 is registered. 
+Sat Mar 23 15:41:40 2024: client 44 is walking to the nurse station queue.
+Sat Mar 23 15:41:40 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:41:40 2024: nurse 1 is ready for their client
+Sat Mar 23 15:41:40 2024: client 41 leaves the clinic after getting shot.
+Sat Mar 23 15:41:40 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:41:40 2024: client 24 is registered. 
+Sat Mar 23 15:41:40 2024: client 24 is walking to the nurse station queue.
+Sat Mar 23 15:41:42 2024: client 166 is registered. 
+Sat Mar 23 15:41:42 2024: client 166 is walking to the nurse station queue.
+Sat Mar 23 15:41:42 2024: client 83 is registered. 
+Sat Mar 23 15:41:42 2024: client 83 is walking to the nurse station queue.
+Sat Mar 23 15:41:43 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:41:43 2024: client 48 leaves the clinic after getting shot.
+Sat Mar 23 15:41:43 2024: nurse 2 is ready for their client
+Sat Mar 23 15:41:43 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:41:43 2024: client 15 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:41:43 2024: client 15 is ready for the vaccination from nurse 6
+Sat Mar 23 15:41:43 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:41:44 2024: client 152 is registered. 
+Sat Mar 23 15:41:44 2024: client 152 is walking to the nurse station queue.
+Sat Mar 23 15:41:44 2024: client 115 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:41:44 2024: client 115 is ready for the vaccination from nurse 9
+Sat Mar 23 15:41:44 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:41:44 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:41:44 2024: client 126 leaves the clinic after getting shot.
+Sat Mar 23 15:41:44 2024: nurse 3 is ready for their client
+Sat Mar 23 15:41:44 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:41:45 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:41:45 2024: client 9 leaves the clinic after getting shot.
+Sat Mar 23 15:41:45 2024: nurse 7 is ready for their client
+Sat Mar 23 15:41:45 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:41:45 2024: client 166 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:41:45 2024: client 166 is ready for the vaccination from nurse 0
+Sat Mar 23 15:41:45 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:41:45 2024: client 24 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:41:45 2024: client 24 is ready for the vaccination from nurse 8
+Sat Mar 23 15:41:45 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:41:47 2024: client 177 is registered. 
+Sat Mar 23 15:41:47 2024: client 177 is walking to the nurse station queue.
+Sat Mar 23 15:41:48 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:41:48 2024: client 15 leaves the clinic after getting shot.
+Sat Mar 23 15:41:48 2024: nurse 6 is ready for their client
+Sat Mar 23 15:41:48 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:41:49 2024: client 23 is registered. 
+Sat Mar 23 15:41:49 2024: client 23 is walking to the nurse station queue.
+Sat Mar 23 15:41:49 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:41:49 2024: client 115 leaves the clinic after getting shot.
+Sat Mar 23 15:41:49 2024: nurse 9 is ready for their client
+Sat Mar 23 15:41:49 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:41:49 2024: client 152 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:41:49 2024: client 152 is ready for the vaccination from nurse 4
+Sat Mar 23 15:41:49 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:41:49 2024: client 44 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:41:49 2024: client 44 is ready for the vaccination from nurse 5
+Sat Mar 23 15:41:49 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:41:49 2024: client 93 is registered. 
+Sat Mar 23 15:41:49 2024: client 93 is walking to the nurse station queue.
+Sat Mar 23 15:41:50 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:41:50 2024: nurse 0 is ready for their client
+Sat Mar 23 15:41:50 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:41:50 2024: client 166 leaves the clinic after getting shot.
+Sat Mar 23 15:41:50 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:41:50 2024: nurse 8 is ready for their client
+Sat Mar 23 15:41:50 2024: client 24 leaves the clinic after getting shot.
+Sat Mar 23 15:41:50 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:41:51 2024: client 83 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:41:51 2024: client 83 is ready for the vaccination from nurse 1
+Sat Mar 23 15:41:51 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:41:53 2024: client 87 is registered. 
+Sat Mar 23 15:41:53 2024: client 87 is walking to the nurse station queue.
+Sat Mar 23 15:41:53 2024: client 45 is registered. 
+Sat Mar 23 15:41:53 2024: client 45 is walking to the nurse station queue.
+Sat Mar 23 15:41:53 2024: client 93 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:41:53 2024: client 93 is ready for the vaccination from nurse 2
+Sat Mar 23 15:41:53 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:41:54 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:41:54 2024: client 152 leaves the clinic after getting shot.
+Sat Mar 23 15:41:54 2024: nurse 4 is ready for their client
+Sat Mar 23 15:41:54 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:41:54 2024: client 44 leaves the clinic after getting shot.
+Sat Mar 23 15:41:54 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:41:54 2024: nurse 5 is ready for their client
+Sat Mar 23 15:41:54 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:41:56 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:41:56 2024: client 83 leaves the clinic after getting shot.
+Sat Mar 23 15:41:56 2024: nurse 1 is ready for their client
+Sat Mar 23 15:41:56 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:41:56 2024: client 177 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:41:56 2024: client 177 is ready for the vaccination from nurse 3
+Sat Mar 23 15:41:56 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:41:57 2024: client 97 is registered. 
+Sat Mar 23 15:41:57 2024: client 97 is walking to the nurse station queue.
+Sat Mar 23 15:41:58 2024: client 20 is registered. 
+Sat Mar 23 15:41:58 2024: client 20 is walking to the nurse station queue.
+Sat Mar 23 15:41:58 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:41:58 2024: client 93 leaves the clinic after getting shot.
+Sat Mar 23 15:41:58 2024: nurse 2 is ready for their client
+Sat Mar 23 15:41:58 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:41:59 2024: client 23 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:41:59 2024: client 23 is ready for the vaccination from nurse 7
+Sat Mar 23 15:41:59 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:41:59 2024: client 169 is registered. 
+Sat Mar 23 15:41:59 2024: client 169 is walking to the nurse station queue.
+Sat Mar 23 15:42:01 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:42:01 2024: client 177 leaves the clinic after getting shot.
+Sat Mar 23 15:42:01 2024: nurse 3 is ready for their client
+Sat Mar 23 15:42:01 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:42:01 2024: client 175 is registered. 
+Sat Mar 23 15:42:01 2024: client 175 is walking to the nurse station queue.
+Sat Mar 23 15:42:01 2024: client 87 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:42:01 2024: client 87 is ready for the vaccination from nurse 6
+Sat Mar 23 15:42:01 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:42:02 2024: client 45 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:42:02 2024: client 45 is ready for the vaccination from nurse 9
+Sat Mar 23 15:42:02 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:42:04 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:42:04 2024: client 23 leaves the clinic after getting shot.
+Sat Mar 23 15:42:04 2024: nurse 7 is ready for their client
+Sat Mar 23 15:42:04 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:42:04 2024: client 97 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:42:04 2024: client 97 is ready for the vaccination from nurse 0
+Sat Mar 23 15:42:04 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:42:05 2024: client 102 is registered. 
+Sat Mar 23 15:42:05 2024: client 102 is walking to the nurse station queue.
+Sat Mar 23 15:42:06 2024: client 175 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:42:06 2024: client 175 is ready for the vaccination from nurse 8
+Sat Mar 23 15:42:06 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:42:06 2024: client 39 is registered. 
+Sat Mar 23 15:42:06 2024: client 39 is walking to the nurse station queue.
+Sat Mar 23 15:42:06 2024: client 20 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:42:06 2024: client 20 is ready for the vaccination from nurse 4
+Sat Mar 23 15:42:06 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:42:06 2024: client 169 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:42:06 2024: client 169 is ready for the vaccination from nurse 5
+Sat Mar 23 15:42:06 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:42:06 2024: client 129 is registered. 
+Sat Mar 23 15:42:06 2024: client 129 is walking to the nurse station queue.
+Sat Mar 23 15:42:06 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:42:06 2024: client 87 leaves the clinic after getting shot.
+Sat Mar 23 15:42:06 2024: nurse 6 is ready for their client
+Sat Mar 23 15:42:06 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:42:07 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:42:07 2024: client 45 leaves the clinic after getting shot.
+Sat Mar 23 15:42:07 2024: nurse 9 is ready for their client
+Sat Mar 23 15:42:07 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:42:08 2024: client 30 is registered. 
+Sat Mar 23 15:42:08 2024: client 30 is walking to the nurse station queue.
+Sat Mar 23 15:42:09 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:42:09 2024: client 97 leaves the clinic after getting shot.
+Sat Mar 23 15:42:09 2024: nurse 0 is ready for their client
+Sat Mar 23 15:42:09 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:42:10 2024: client 27 is registered. 
+Sat Mar 23 15:42:10 2024: client 27 is walking to the nurse station queue.
+Sat Mar 23 15:42:11 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:42:11 2024: nurse 8 is walking to get a vial. 
+Sat Mar 23 15:42:11 2024: client 175 leaves the clinic after getting shot.
+Sat Mar 23 15:42:11 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:42:11 2024: nurse 4 is ready for their client
+Sat Mar 23 15:42:11 2024: client 20 leaves the clinic after getting shot.
+Sat Mar 23 15:42:11 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:42:11 2024: client 53 is registered. 
+Sat Mar 23 15:42:11 2024: client 53 is walking to the nurse station queue.
+Sat Mar 23 15:42:11 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:42:11 2024: nurse 5 is walking to get a vial. 
+Sat Mar 23 15:42:11 2024: client 169 leaves the clinic after getting shot.
+Sat Mar 23 15:42:12 2024: client 30 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:42:12 2024: client 30 is ready for the vaccination from nurse 1
+Sat Mar 23 15:42:12 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:42:12 2024: client 102 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:42:12 2024: client 102 is ready for the vaccination from nurse 2
+Sat Mar 23 15:42:12 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:42:13 2024: nurse 5 got vial. Number of vials left: 9 
+Sat Mar 23 15:42:13 2024: client 129 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:42:13 2024: client 129 is ready for the vaccination from nurse 3
+Sat Mar 23 15:42:13 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:42:13 2024: nurse 8 got vial. Number of vials left: 8 
+Sat Mar 23 15:42:14 2024: client 137 is registered. 
+Sat Mar 23 15:42:14 2024: client 137 is walking to the nurse station queue.
+Sat Mar 23 15:42:15 2024: nurse 8 is ready for their client
+Sat Mar 23 15:42:15 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:42:15 2024: client 53 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:42:15 2024: client 53 is ready for the vaccination from nurse 7
+Sat Mar 23 15:42:15 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:42:15 2024: client 39 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:42:15 2024: client 39 is ready for the vaccination from nurse 6
+Sat Mar 23 15:42:15 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:42:15 2024: client 130 is registered. 
+Sat Mar 23 15:42:15 2024: client 130 is walking to the nurse station queue.
+Sat Mar 23 15:42:16 2024: nurse 5 is ready for their client
+Sat Mar 23 15:42:16 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:42:17 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:42:17 2024: client 30 leaves the clinic after getting shot.
+Sat Mar 23 15:42:17 2024: nurse 1 is ready for their client
+Sat Mar 23 15:42:17 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:42:17 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:42:17 2024: client 102 leaves the clinic after getting shot.
+Sat Mar 23 15:42:17 2024: nurse 2 is walking to get a vial. 
+Sat Mar 23 15:42:18 2024: client 137 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:42:18 2024: client 137 is ready for the vaccination from nurse 9
+Sat Mar 23 15:42:18 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:42:18 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:42:18 2024: client 129 leaves the clinic after getting shot.
+Sat Mar 23 15:42:18 2024: nurse 3 is walking to get a vial. 
+Sat Mar 23 15:42:18 2024: client 27 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:42:18 2024: client 27 is ready for the vaccination from nurse 0
+Sat Mar 23 15:42:18 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:42:18 2024: nurse 2 got vial. Number of vials left: 7 
+Sat Mar 23 15:42:19 2024: client 18 is registered. 
+Sat Mar 23 15:42:19 2024: client 18 is walking to the nurse station queue.
+Sat Mar 23 15:42:19 2024: client 29 is registered. 
+Sat Mar 23 15:42:19 2024: client 29 is walking to the nurse station queue.
+Sat Mar 23 15:42:19 2024: client 156 is registered. 
+Sat Mar 23 15:42:19 2024: client 156 is walking to the nurse station queue.
+Sat Mar 23 15:42:20 2024: nurse 2 is ready for their client
+Sat Mar 23 15:42:20 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:42:20 2024: nurse 3 got vial. Number of vials left: 6 
+Sat Mar 23 15:42:20 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:42:20 2024: nurse 7 is walking to get a vial. 
+Sat Mar 23 15:42:20 2024: client 53 leaves the clinic after getting shot.
+Sat Mar 23 15:42:20 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:42:20 2024: client 39 leaves the clinic after getting shot.
+Sat Mar 23 15:42:20 2024: nurse 6 is walking to get a vial. 
+Sat Mar 23 15:42:20 2024: client 142 is registered. 
+Sat Mar 23 15:42:20 2024: client 142 is walking to the nurse station queue.
+Sat Mar 23 15:42:21 2024: nurse 3 is ready for their client
+Sat Mar 23 15:42:21 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:42:22 2024: nurse 6 got vial. Number of vials left: 5 
+Sat Mar 23 15:42:22 2024: nurse 7 got vial. Number of vials left: 4 
+Sat Mar 23 15:42:23 2024: client 156 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:42:23 2024: client 156 is ready for the vaccination from nurse 4
+Sat Mar 23 15:42:23 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:42:23 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:42:23 2024: client 137 leaves the clinic after getting shot.
+Sat Mar 23 15:42:23 2024: nurse 9 is walking to get a vial. 
+Sat Mar 23 15:42:23 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:42:23 2024: client 27 leaves the clinic after getting shot.
+Sat Mar 23 15:42:23 2024: nurse 0 is walking to get a vial. 
+Sat Mar 23 15:42:24 2024: nurse 6 is ready for their client
+Sat Mar 23 15:42:24 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:42:24 2024: client 17 is registered. 
+Sat Mar 23 15:42:24 2024: client 17 is walking to the nurse station queue.
+Sat Mar 23 15:42:25 2024: nurse 9 got vial. Number of vials left: 3 
+Sat Mar 23 15:42:25 2024: client 8 is registered. 
+Sat Mar 23 15:42:25 2024: client 8 is walking to the nurse station queue.
+Sat Mar 23 15:42:25 2024: nurse 0 got vial. Number of vials left: 2 
+Sat Mar 23 15:42:25 2024: nurse 7 is ready for their client
+Sat Mar 23 15:42:25 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:42:25 2024: client 130 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:42:25 2024: client 130 is ready for the vaccination from nurse 8
+Sat Mar 23 15:42:25 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:42:26 2024: nurse 9 is ready for their client
+Sat Mar 23 15:42:26 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:42:27 2024: client 174 is registered. 
+Sat Mar 23 15:42:27 2024: client 174 is walking to the nurse station queue.
+Sat Mar 23 15:42:27 2024: nurse 0 is ready for their client
+Sat Mar 23 15:42:27 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:42:27 2024: client 18 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:42:27 2024: client 18 is ready for the vaccination from nurse 5
+Sat Mar 23 15:42:27 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:42:27 2024: client 29 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:42:27 2024: client 29 is ready for the vaccination from nurse 1
+Sat Mar 23 15:42:27 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:42:27 2024: client 142 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:42:27 2024: client 142 is ready for the vaccination from nurse 2
+Sat Mar 23 15:42:27 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:42:28 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:42:28 2024: client 156 leaves the clinic after getting shot.
+Sat Mar 23 15:42:28 2024: nurse 4 is walking to get a vial. 
+Sat Mar 23 15:42:28 2024: client 125 is registered. 
+Sat Mar 23 15:42:28 2024: client 125 is walking to the nurse station queue.
+Sat Mar 23 15:42:30 2024: nurse 4 got vial. Number of vials left: 1 
+Sat Mar 23 15:42:30 2024: client 116 is registered. 
+Sat Mar 23 15:42:30 2024: client 116 is walking to the nurse station queue.
+Sat Mar 23 15:42:30 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:42:30 2024: client 130 leaves the clinic after getting shot.
+Sat Mar 23 15:42:30 2024: nurse 8 is ready for their client
+Sat Mar 23 15:42:30 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:42:31 2024: client 174 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:42:31 2024: client 174 is ready for the vaccination from nurse 3
+Sat Mar 23 15:42:31 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:42:32 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:42:32 2024: client 18 leaves the clinic after getting shot.
+Sat Mar 23 15:42:32 2024: nurse 5 is ready for their client
+Sat Mar 23 15:42:32 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:42:32 2024: client 17 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:42:32 2024: client 17 is ready for the vaccination from nurse 6
+Sat Mar 23 15:42:32 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:42:32 2024: nurse 4 is ready for their client
+Sat Mar 23 15:42:32 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:42:32 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:42:32 2024: client 29 leaves the clinic after getting shot.
+Sat Mar 23 15:42:32 2024: nurse 1 is walking to get a vial. 
+Sat Mar 23 15:42:32 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:42:32 2024: client 142 leaves the clinic after getting shot.
+Sat Mar 23 15:42:32 2024: nurse 2 is ready for their client
+Sat Mar 23 15:42:32 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:42:33 2024: client 159 is registered. 
+Sat Mar 23 15:42:33 2024: client 159 is walking to the nurse station queue.
+Sat Mar 23 15:42:34 2024: nurse 1 got vial. Number of vials left: 0 
+Sat Mar 23 15:42:34 2024: client 40 is registered. 
+Sat Mar 23 15:42:34 2024: client 40 is walking to the nurse station queue.
+Sat Mar 23 15:42:34 2024: client 125 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:42:34 2024: client 125 is ready for the vaccination from nurse 7
+Sat Mar 23 15:42:34 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:42:34 2024: client 75 is registered. 
+Sat Mar 23 15:42:34 2024: client 75 is walking to the nurse station queue.
+Sat Mar 23 15:42:35 2024: client 8 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:42:35 2024: client 8 is ready for the vaccination from nurse 9
+Sat Mar 23 15:42:35 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:42:36 2024: client 122 is registered. 
+Sat Mar 23 15:42:36 2024: client 122 is walking to the nurse station queue.
+Sat Mar 23 15:42:36 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:42:36 2024: client 174 leaves the clinic after getting shot.
+Sat Mar 23 15:42:36 2024: nurse 3 is ready for their client
+Sat Mar 23 15:42:36 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:42:36 2024: nurse 1 is ready for their client
+Sat Mar 23 15:42:36 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:42:37 2024: client 116 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:42:37 2024: client 116 is ready for the vaccination from nurse 0
+Sat Mar 23 15:42:37 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:42:37 2024: client 106 is registered. 
+Sat Mar 23 15:42:37 2024: client 106 is walking to the nurse station queue.
+Sat Mar 23 15:42:37 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:42:37 2024: client 17 leaves the clinic after getting shot.
+Sat Mar 23 15:42:37 2024: nurse 6 is ready for their client
+Sat Mar 23 15:42:37 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:42:39 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:42:39 2024: client 125 leaves the clinic after getting shot.
+Sat Mar 23 15:42:39 2024: nurse 7 is ready for their client
+Sat Mar 23 15:42:39 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:42:40 2024: client 40 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:42:40 2024: client 40 is ready for the vaccination from nurse 8
+Sat Mar 23 15:42:40 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:42:40 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:42:40 2024: client 8 leaves the clinic after getting shot.
+Sat Mar 23 15:42:40 2024: nurse 9 is ready for their client
+Sat Mar 23 15:42:40 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:42:40 2024: client 159 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:42:40 2024: client 159 is ready for the vaccination from nurse 5
+Sat Mar 23 15:42:40 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:42:42 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:42:42 2024: client 116 leaves the clinic after getting shot.
+Sat Mar 23 15:42:42 2024: nurse 0 is ready for their client
+Sat Mar 23 15:42:42 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:42:42 2024: client 145 is registered. 
+Sat Mar 23 15:42:42 2024: client 145 is walking to the nurse station queue.
+Sat Mar 23 15:42:42 2024: client 106 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:42:42 2024: client 106 is ready for the vaccination from nurse 4
+Sat Mar 23 15:42:42 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:42:43 2024: client 99 is registered. 
+Sat Mar 23 15:42:43 2024: client 99 is walking to the nurse station queue.
+Sat Mar 23 15:42:43 2024: client 7 is registered. 
+Sat Mar 23 15:42:43 2024: client 7 is walking to the nurse station queue.
+Sat Mar 23 15:42:43 2024: client 75 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:42:43 2024: client 75 is ready for the vaccination from nurse 2
+Sat Mar 23 15:42:43 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:42:44 2024: client 122 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:42:44 2024: client 122 is ready for the vaccination from nurse 3
+Sat Mar 23 15:42:44 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:42:44 2024: client 73 is registered. 
+Sat Mar 23 15:42:44 2024: client 73 is walking to the nurse station queue.
+Sat Mar 23 15:42:45 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:42:45 2024: client 40 leaves the clinic after getting shot.
+Sat Mar 23 15:42:45 2024: nurse 8 is ready for their client
+Sat Mar 23 15:42:45 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:42:45 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:42:45 2024: client 159 leaves the clinic after getting shot.
+Sat Mar 23 15:42:45 2024: nurse 5 is ready for their client
+Sat Mar 23 15:42:45 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:42:47 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:42:47 2024: nurse 4 is ready for their client
+Sat Mar 23 15:42:47 2024: client 106 leaves the clinic after getting shot.
+Sat Mar 23 15:42:47 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:42:48 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:42:48 2024: client 75 leaves the clinic after getting shot.
+Sat Mar 23 15:42:48 2024: nurse 2 is ready for their client
+Sat Mar 23 15:42:48 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:42:48 2024: client 170 is registered. 
+Sat Mar 23 15:42:48 2024: client 170 is walking to the nurse station queue.
+Sat Mar 23 15:42:48 2024: client 145 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:42:48 2024: client 145 is ready for the vaccination from nurse 1
+Sat Mar 23 15:42:48 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:42:49 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:42:49 2024: client 122 leaves the clinic after getting shot.
+Sat Mar 23 15:42:49 2024: nurse 3 is ready for their client
+Sat Mar 23 15:42:49 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:42:49 2024: client 6 is registered. 
+Sat Mar 23 15:42:49 2024: client 6 is walking to the nurse station queue.
+Sat Mar 23 15:42:49 2024: client 176 is registered. 
+Sat Mar 23 15:42:49 2024: client 176 is walking to the nurse station queue.
+Sat Mar 23 15:42:50 2024: client 94 is registered. 
+Sat Mar 23 15:42:50 2024: client 94 is walking to the nurse station queue.
+Sat Mar 23 15:42:50 2024: client 99 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:42:50 2024: client 99 is ready for the vaccination from nurse 6
+Sat Mar 23 15:42:50 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:42:51 2024: client 82 is registered. 
+Sat Mar 23 15:42:51 2024: client 82 is walking to the nurse station queue.
+Sat Mar 23 15:42:52 2024: client 73 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:42:52 2024: client 73 is ready for the vaccination from nurse 7
+Sat Mar 23 15:42:52 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:42:52 2024: client 7 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:42:52 2024: client 7 is ready for the vaccination from nurse 9
+Sat Mar 23 15:42:52 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:42:53 2024: client 6 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:42:53 2024: client 6 is ready for the vaccination from nurse 0
+Sat Mar 23 15:42:53 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:42:53 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:42:53 2024: client 145 leaves the clinic after getting shot.
+Sat Mar 23 15:42:53 2024: nurse 1 is ready for their client
+Sat Mar 23 15:42:53 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:42:54 2024: client 94 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:42:54 2024: client 94 is ready for the vaccination from nurse 8
+Sat Mar 23 15:42:54 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:42:55 2024: client 161 is registered. 
+Sat Mar 23 15:42:55 2024: client 161 is walking to the nurse station queue.
+Sat Mar 23 15:42:55 2024: client 170 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:42:55 2024: client 170 is ready for the vaccination from nurse 5
+Sat Mar 23 15:42:55 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:42:55 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:42:55 2024: nurse 6 is ready for their client
+Sat Mar 23 15:42:55 2024: client 99 leaves the clinic after getting shot.
+Sat Mar 23 15:42:55 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:42:56 2024: client 176 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:42:56 2024: client 176 is ready for the vaccination from nurse 4
+Sat Mar 23 15:42:56 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:42:57 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:42:57 2024: client 73 leaves the clinic after getting shot.
+Sat Mar 23 15:42:57 2024: nurse 7 is ready for their client
+Sat Mar 23 15:42:57 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:42:57 2024: client 82 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:42:57 2024: client 82 is ready for the vaccination from nurse 2
+Sat Mar 23 15:42:57 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:42:57 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:42:57 2024: client 7 leaves the clinic after getting shot.
+Sat Mar 23 15:42:57 2024: nurse 9 is ready for their client
+Sat Mar 23 15:42:57 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:42:58 2024: client 77 is registered. 
+Sat Mar 23 15:42:58 2024: client 77 is walking to the nurse station queue.
+Sat Mar 23 15:42:58 2024: client 90 is registered. 
+Sat Mar 23 15:42:58 2024: client 90 is walking to the nurse station queue.
+Sat Mar 23 15:42:58 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:42:58 2024: client 6 leaves the clinic after getting shot.
+Sat Mar 23 15:42:58 2024: nurse 0 is ready for their client
+Sat Mar 23 15:42:58 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:42:58 2024: client 161 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:42:58 2024: client 161 is ready for the vaccination from nurse 3
+Sat Mar 23 15:42:58 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:42:59 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:42:59 2024: client 94 leaves the clinic after getting shot.
+Sat Mar 23 15:42:59 2024: nurse 8 is ready for their client
+Sat Mar 23 15:42:59 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:43:00 2024: client 35 is registered. 
+Sat Mar 23 15:43:00 2024: client 35 is walking to the nurse station queue.
+Sat Mar 23 15:43:00 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:43:00 2024: client 170 leaves the clinic after getting shot.
+Sat Mar 23 15:43:00 2024: nurse 5 is ready for their client
+Sat Mar 23 15:43:00 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:43:01 2024: client 148 is registered. 
+Sat Mar 23 15:43:01 2024: client 148 is walking to the nurse station queue.
+Sat Mar 23 15:43:01 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:43:01 2024: client 176 leaves the clinic after getting shot.
+Sat Mar 23 15:43:01 2024: nurse 4 is ready for their client
+Sat Mar 23 15:43:01 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:43:01 2024: client 90 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:43:01 2024: client 90 is ready for the vaccination from nurse 1
+Sat Mar 23 15:43:01 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:43:02 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:43:02 2024: client 82 leaves the clinic after getting shot.
+Sat Mar 23 15:43:02 2024: nurse 2 is ready for their client
+Sat Mar 23 15:43:02 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:43:03 2024: client 117 is registered. 
+Sat Mar 23 15:43:03 2024: client 117 is walking to the nurse station queue.
+Sat Mar 23 15:43:03 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:43:03 2024: client 161 leaves the clinic after getting shot.
+Sat Mar 23 15:43:03 2024: nurse 3 is ready for their client
+Sat Mar 23 15:43:03 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:43:04 2024: client 4 is registered. 
+Sat Mar 23 15:43:04 2024: client 4 is walking to the nurse station queue.
+Sat Mar 23 15:43:05 2024: client 77 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:43:05 2024: client 77 is ready for the vaccination from nurse 6
+Sat Mar 23 15:43:05 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:43:05 2024: client 35 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:43:05 2024: client 35 is ready for the vaccination from nurse 7
+Sat Mar 23 15:43:05 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:43:05 2024: client 148 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:43:05 2024: client 148 is ready for the vaccination from nurse 9
+Sat Mar 23 15:43:05 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:43:06 2024: client 151 is registered. 
+Sat Mar 23 15:43:06 2024: client 151 is walking to the nurse station queue.
+Sat Mar 23 15:43:06 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:43:06 2024: client 90 leaves the clinic after getting shot.
+Sat Mar 23 15:43:06 2024: nurse 1 is ready for their client
+Sat Mar 23 15:43:06 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:43:08 2024: client 66 is registered. 
+Sat Mar 23 15:43:08 2024: client 66 is walking to the nurse station queue.
+Sat Mar 23 15:43:09 2024: client 58 is registered. 
+Sat Mar 23 15:43:09 2024: client 58 is walking to the nurse station queue.
+Sat Mar 23 15:43:10 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:43:10 2024: client 77 leaves the clinic after getting shot.
+Sat Mar 23 15:43:10 2024: nurse 6 is ready for their client
+Sat Mar 23 15:43:10 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:43:10 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:43:10 2024: client 35 leaves the clinic after getting shot.
+Sat Mar 23 15:43:10 2024: nurse 7 is ready for their client
+Sat Mar 23 15:43:10 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:43:10 2024: client 151 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:43:10 2024: client 151 is ready for the vaccination from nurse 0
+Sat Mar 23 15:43:10 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:43:10 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:43:10 2024: client 148 leaves the clinic after getting shot.
+Sat Mar 23 15:43:10 2024: nurse 9 is ready for their client
+Sat Mar 23 15:43:10 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:43:10 2024: client 120 is registered. 
+Sat Mar 23 15:43:10 2024: client 120 is walking to the nurse station queue.
+Sat Mar 23 15:43:10 2024: client 117 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:43:10 2024: client 117 is ready for the vaccination from nurse 8
+Sat Mar 23 15:43:10 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:43:11 2024: client 4 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:43:11 2024: client 4 is ready for the vaccination from nurse 5
+Sat Mar 23 15:43:11 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:43:11 2024: client 107 is registered. 
+Sat Mar 23 15:43:11 2024: client 107 is walking to the nurse station queue.
+Sat Mar 23 15:43:14 2024: client 42 is registered. 
+Sat Mar 23 15:43:14 2024: client 42 is walking to the nurse station queue.
+Sat Mar 23 15:43:15 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:43:15 2024: client 151 leaves the clinic after getting shot.
+Sat Mar 23 15:43:15 2024: nurse 0 is ready for their client
+Sat Mar 23 15:43:15 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:43:15 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:43:15 2024: client 117 leaves the clinic after getting shot.
+Sat Mar 23 15:43:15 2024: nurse 8 is ready for their client
+Sat Mar 23 15:43:15 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:43:16 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:43:16 2024: client 4 leaves the clinic after getting shot.
+Sat Mar 23 15:43:16 2024: nurse 5 is ready for their client
+Sat Mar 23 15:43:16 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:43:16 2024: client 127 is registered. 
+Sat Mar 23 15:43:16 2024: client 127 is walking to the nurse station queue.
+Sat Mar 23 15:43:17 2024: client 12 is registered. 
+Sat Mar 23 15:43:17 2024: client 12 is walking to the nurse station queue.
+Sat Mar 23 15:43:18 2024: client 120 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:43:18 2024: client 120 is ready for the vaccination from nurse 4
+Sat Mar 23 15:43:18 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:43:18 2024: client 66 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:43:18 2024: client 66 is ready for the vaccination from nurse 2
+Sat Mar 23 15:43:18 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:43:18 2024: client 58 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:43:18 2024: client 58 is ready for the vaccination from nurse 3
+Sat Mar 23 15:43:18 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:43:20 2024: client 121 is registered. 
+Sat Mar 23 15:43:20 2024: client 121 is walking to the nurse station queue.
+Sat Mar 23 15:43:20 2024: client 63 is registered. 
+Sat Mar 23 15:43:20 2024: client 63 is walking to the nurse station queue.
+Sat Mar 23 15:43:20 2024: client 107 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:43:20 2024: client 107 is ready for the vaccination from nurse 1
+Sat Mar 23 15:43:20 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:43:21 2024: client 42 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:43:21 2024: client 42 is ready for the vaccination from nurse 6
+Sat Mar 23 15:43:21 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:43:21 2024: client 127 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:43:21 2024: client 127 is ready for the vaccination from nurse 7
+Sat Mar 23 15:43:21 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:43:23 2024: client 12 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:43:23 2024: client 12 is ready for the vaccination from nurse 9
+Sat Mar 23 15:43:23 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:43:23 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:43:23 2024: nurse 4 is ready for their client
+Sat Mar 23 15:43:23 2024: client 120 leaves the clinic after getting shot.
+Sat Mar 23 15:43:23 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:43:23 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:43:23 2024: client 66 leaves the clinic after getting shot.
+Sat Mar 23 15:43:23 2024: nurse 2 is ready for their client
+Sat Mar 23 15:43:23 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:43:23 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:43:23 2024: client 58 leaves the clinic after getting shot.
+Sat Mar 23 15:43:23 2024: nurse 3 is ready for their client
+Sat Mar 23 15:43:23 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:43:25 2024: client 157 is registered. 
+Sat Mar 23 15:43:25 2024: client 157 is walking to the nurse station queue.
+Sat Mar 23 15:43:25 2024: client 16 is registered. 
+Sat Mar 23 15:43:25 2024: client 16 is walking to the nurse station queue.
+Sat Mar 23 15:43:25 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:43:25 2024: client 107 leaves the clinic after getting shot.
+Sat Mar 23 15:43:25 2024: nurse 1 is ready for their client
+Sat Mar 23 15:43:25 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:43:25 2024: client 63 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:43:25 2024: client 63 is ready for the vaccination from nurse 0
+Sat Mar 23 15:43:25 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:43:26 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:43:26 2024: client 42 leaves the clinic after getting shot.
+Sat Mar 23 15:43:26 2024: nurse 6 is ready for their client
+Sat Mar 23 15:43:26 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:43:26 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:43:26 2024: nurse 7 is ready for their client
+Sat Mar 23 15:43:26 2024: client 127 leaves the clinic after getting shot.
+Sat Mar 23 15:43:26 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:43:27 2024: client 96 is registered. 
+Sat Mar 23 15:43:27 2024: client 96 is walking to the nurse station queue.
+Sat Mar 23 15:43:27 2024: client 134 is registered. 
+Sat Mar 23 15:43:27 2024: client 134 is walking to the nurse station queue.
+Sat Mar 23 15:43:28 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:43:28 2024: client 12 leaves the clinic after getting shot.
+Sat Mar 23 15:43:28 2024: nurse 9 is ready for their client
+Sat Mar 23 15:43:28 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:43:28 2024: client 157 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:43:28 2024: client 157 is ready for the vaccination from nurse 8
+Sat Mar 23 15:43:28 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:43:30 2024: client 121 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:43:30 2024: client 121 is ready for the vaccination from nurse 5
+Sat Mar 23 15:43:30 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:43:30 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:43:30 2024: client 63 leaves the clinic after getting shot.
+Sat Mar 23 15:43:30 2024: nurse 0 is ready for their client
+Sat Mar 23 15:43:30 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:43:31 2024: client 50 is registered. 
+Sat Mar 23 15:43:31 2024: client 50 is walking to the nurse station queue.
+Sat Mar 23 15:43:31 2024: client 95 is registered. 
+Sat Mar 23 15:43:31 2024: client 95 is walking to the nurse station queue.
+Sat Mar 23 15:43:31 2024: client 13 is registered. 
+Sat Mar 23 15:43:31 2024: client 13 is walking to the nurse station queue.
+Sat Mar 23 15:43:32 2024: client 96 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:43:32 2024: client 96 is ready for the vaccination from nurse 4
+Sat Mar 23 15:43:32 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:43:32 2024: client 147 is registered. 
+Sat Mar 23 15:43:32 2024: client 147 is walking to the nurse station queue.
+Sat Mar 23 15:43:33 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:43:33 2024: client 157 leaves the clinic after getting shot.
+Sat Mar 23 15:43:33 2024: nurse 8 is ready for their client
+Sat Mar 23 15:43:33 2024: nurse 8 waiting for client to arrive.
+Sat Mar 23 15:43:34 2024: client 16 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:43:34 2024: client 16 is ready for the vaccination from nurse 2
+Sat Mar 23 15:43:34 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:43:35 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:43:35 2024: client 121 leaves the clinic after getting shot.
+Sat Mar 23 15:43:35 2024: nurse 5 is ready for their client
+Sat Mar 23 15:43:35 2024: nurse 5 waiting for client to arrive.
+Sat Mar 23 15:43:36 2024: client 134 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:43:36 2024: client 134 is ready for the vaccination from nurse 3
+Sat Mar 23 15:43:36 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:43:36 2024: client 100 is registered. 
+Sat Mar 23 15:43:36 2024: client 100 is walking to the nurse station queue.
+Sat Mar 23 15:43:37 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:43:37 2024: nurse 4 is ready for their client
+Sat Mar 23 15:43:37 2024: client 96 leaves the clinic after getting shot.
+Sat Mar 23 15:43:37 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:43:37 2024: client 95 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:43:37 2024: client 95 is ready for the vaccination from nurse 1
+Sat Mar 23 15:43:37 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:43:37 2024: client 105 is registered. 
+Sat Mar 23 15:43:37 2024: client 105 is walking to the nurse station queue.
+Sat Mar 23 15:43:38 2024: client 79 is registered. 
+Sat Mar 23 15:43:38 2024: client 79 is walking to the nurse station queue.
+Sat Mar 23 15:43:39 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:43:39 2024: client 16 leaves the clinic after getting shot.
+Sat Mar 23 15:43:39 2024: nurse 2 is ready for their client
+Sat Mar 23 15:43:39 2024: nurse 2 waiting for client to arrive.
+Sat Mar 23 15:43:39 2024: client 147 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:43:39 2024: client 147 is ready for the vaccination from nurse 6
+Sat Mar 23 15:43:39 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:43:40 2024: client 50 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:43:40 2024: client 50 is ready for the vaccination from nurse 7
+Sat Mar 23 15:43:40 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:43:40 2024: client 67 is registered. 
+Sat Mar 23 15:43:40 2024: client 67 is walking to the nurse station queue.
+Sat Mar 23 15:43:41 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:43:41 2024: client 134 leaves the clinic after getting shot.
+Sat Mar 23 15:43:41 2024: nurse 3 is ready for their client
+Sat Mar 23 15:43:41 2024: nurse 3 waiting for client to arrive.
+Sat Mar 23 15:43:41 2024: client 13 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:43:41 2024: client 13 is ready for the vaccination from nurse 9
+Sat Mar 23 15:43:41 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:43:41 2024: client 179 is registered. 
+Sat Mar 23 15:43:41 2024: client 179 is walking to the nurse station queue.
+Sat Mar 23 15:43:41 2024: client 0 is registered. 
+Sat Mar 23 15:43:41 2024: client 0 is walking to the nurse station queue.
+Sat Mar 23 15:43:42 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:43:42 2024: client 95 leaves the clinic after getting shot.
+Sat Mar 23 15:43:42 2024: nurse 1 is ready for their client
+Sat Mar 23 15:43:42 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:43:42 2024: client 100 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:43:42 2024: client 100 is ready for the vaccination from nurse 0
+Sat Mar 23 15:43:42 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:43:43 2024: client 153 is registered. 
+Sat Mar 23 15:43:43 2024: client 153 is walking to the nurse station queue.
+Sat Mar 23 15:43:43 2024: client 79 aproaches nurse 8 for good times (vaccinations, of course).
+Sat Mar 23 15:43:43 2024: client 79 is ready for the vaccination from nurse 8
+Sat Mar 23 15:43:43 2024: nurse 8 is administrating the vaccine 
+Sat Mar 23 15:43:44 2024: client 105 aproaches nurse 5 for good times (vaccinations, of course).
+Sat Mar 23 15:43:44 2024: client 105 is ready for the vaccination from nurse 5
+Sat Mar 23 15:43:44 2024: nurse 5 is administrating the vaccine 
+Sat Mar 23 15:43:44 2024: client 179 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:43:44 2024: client 179 is ready for the vaccination from nurse 4
+Sat Mar 23 15:43:44 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:43:44 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:43:44 2024: client 147 leaves the clinic after getting shot.
+Sat Mar 23 15:43:44 2024: nurse 6 is ready for their client
+Sat Mar 23 15:43:44 2024: nurse 6 waiting for client to arrive.
+Sat Mar 23 15:43:45 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:43:45 2024: client 50 leaves the clinic after getting shot.
+Sat Mar 23 15:43:45 2024: nurse 7 is ready for their client
+Sat Mar 23 15:43:45 2024: nurse 7 waiting for client to arrive.
+Sat Mar 23 15:43:46 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:43:46 2024: client 13 leaves the clinic after getting shot.
+Sat Mar 23 15:43:46 2024: nurse 9 is ready for their client
+Sat Mar 23 15:43:46 2024: nurse 9 waiting for client to arrive.
+Sat Mar 23 15:43:47 2024: client 25 is registered. 
+Sat Mar 23 15:43:47 2024: client 25 is walking to the nurse station queue.
+Sat Mar 23 15:43:47 2024: client 153 aproaches nurse 2 for good times (vaccinations, of course).
+Sat Mar 23 15:43:47 2024: client 153 is ready for the vaccination from nurse 2
+Sat Mar 23 15:43:47 2024: nurse 2 is administrating the vaccine 
+Sat Mar 23 15:43:47 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:43:47 2024: client 100 leaves the clinic after getting shot.
+Sat Mar 23 15:43:47 2024: nurse 0 is ready for their client
+Sat Mar 23 15:43:47 2024: nurse 0 waiting for client to arrive.
+Sat Mar 23 15:43:47 2024: client 0 aproaches nurse 3 for good times (vaccinations, of course).
+Sat Mar 23 15:43:47 2024: client 0 is ready for the vaccination from nurse 3
+Sat Mar 23 15:43:47 2024: nurse 3 is administrating the vaccine 
+Sat Mar 23 15:43:48 2024: client 3 is registered. 
+Sat Mar 23 15:43:48 2024: client 3 is walking to the nurse station queue.
+Sat Mar 23 15:43:48 2024: nurse 8 allows client to leave. 
+Sat Mar 23 15:43:48 2024: client 79 leaves the clinic after getting shot.
+Sat Mar 23 15:43:48 2024: nurse 8 is walking to get a vial. 
+Sat Mar 23 15:43:49 2024: nurse 5 allows client to leave. 
+Sat Mar 23 15:43:49 2024: client 105 leaves the clinic after getting shot.
+Sat Mar 23 15:43:49 2024: nurse 5 is walking to get a vial. 
+Sat Mar 23 15:43:49 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:43:49 2024: nurse 4 is ready for their client
+Sat Mar 23 15:43:49 2024: client 179 leaves the clinic after getting shot.
+Sat Mar 23 15:43:49 2024: nurse 4 waiting for client to arrive.
+Sat Mar 23 15:43:50 2024: client 67 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:43:50 2024: client 67 is ready for the vaccination from nurse 1
+Sat Mar 23 15:43:50 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:43:51 2024: nurse 8 sees there are no vials left, so the shift is done!
+Sat Mar 23 15:43:51 2024: nurse 8 leaves the clinic
+Sat Mar 23 15:43:51 2024: nurse 5 sees there are no vials left, so the shift is done!
+Sat Mar 23 15:43:51 2024: nurse 5 leaves the clinic
+Sat Mar 23 15:43:51 2024: client 61 is registered. 
+Sat Mar 23 15:43:51 2024: client 61 is walking to the nurse station queue.
+Sat Mar 23 15:43:51 2024: client 78 is registered. 
+Sat Mar 23 15:43:51 2024: client 78 is walking to the nurse station queue.
+Sat Mar 23 15:43:52 2024: nurse 2 allows client to leave. 
+Sat Mar 23 15:43:52 2024: client 153 leaves the clinic after getting shot.
+Sat Mar 23 15:43:52 2024: nurse 2 is walking to get a vial. 
+Sat Mar 23 15:43:52 2024: client 3 aproaches nurse 6 for good times (vaccinations, of course).
+Sat Mar 23 15:43:52 2024: client 3 is ready for the vaccination from nurse 6
+Sat Mar 23 15:43:52 2024: nurse 6 is administrating the vaccine 
+Sat Mar 23 15:43:52 2024: nurse 3 allows client to leave. 
+Sat Mar 23 15:43:52 2024: client 0 leaves the clinic after getting shot.
+Sat Mar 23 15:43:52 2024: nurse 3 is walking to get a vial. 
+Sat Mar 23 15:43:53 2024: client 136 is registered. 
+Sat Mar 23 15:43:53 2024: client 136 is walking to the nurse station queue.
+Sat Mar 23 15:43:54 2024: nurse 2 sees there are no vials left, so the shift is done!
+Sat Mar 23 15:43:54 2024: nurse 2 leaves the clinic
+Sat Mar 23 15:43:54 2024: nurse 3 sees there are no vials left, so the shift is done!
+Sat Mar 23 15:43:54 2024: nurse 3 leaves the clinic
+Sat Mar 23 15:43:55 2024: client 57 is registered. 
+Sat Mar 23 15:43:55 2024: client 57 is walking to the nurse station queue.
+Sat Mar 23 15:43:55 2024: client 25 aproaches nurse 7 for good times (vaccinations, of course).
+Sat Mar 23 15:43:55 2024: client 25 is ready for the vaccination from nurse 7
+Sat Mar 23 15:43:55 2024: nurse 7 is administrating the vaccine 
+Sat Mar 23 15:43:55 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:43:55 2024: client 67 leaves the clinic after getting shot.
+Sat Mar 23 15:43:55 2024: nurse 1 is ready for their client
+Sat Mar 23 15:43:55 2024: nurse 1 waiting for client to arrive.
+Sat Mar 23 15:43:57 2024: nurse 6 allows client to leave. 
+Sat Mar 23 15:43:57 2024: client 3 leaves the clinic after getting shot.
+Sat Mar 23 15:43:57 2024: nurse 6 is walking to get a vial. 
+Sat Mar 23 15:43:58 2024: nurse 6 sees there are no vials left, so the shift is done!
+Sat Mar 23 15:43:58 2024: nurse 6 leaves the clinic
+Sat Mar 23 15:44:00 2024: nurse 7 allows client to leave. 
+Sat Mar 23 15:44:00 2024: client 25 leaves the clinic after getting shot.
+Sat Mar 23 15:44:00 2024: nurse 7 is walking to get a vial. 
+Sat Mar 23 15:44:01 2024: client 61 aproaches nurse 9 for good times (vaccinations, of course).
+Sat Mar 23 15:44:01 2024: client 61 is ready for the vaccination from nurse 9
+Sat Mar 23 15:44:01 2024: nurse 9 is administrating the vaccine 
+Sat Mar 23 15:44:01 2024: client 136 aproaches nurse 0 for good times (vaccinations, of course).
+Sat Mar 23 15:44:01 2024: client 136 is ready for the vaccination from nurse 0
+Sat Mar 23 15:44:01 2024: nurse 0 is administrating the vaccine 
+Sat Mar 23 15:44:01 2024: client 57 aproaches nurse 4 for good times (vaccinations, of course).
+Sat Mar 23 15:44:01 2024: client 57 is ready for the vaccination from nurse 4
+Sat Mar 23 15:44:01 2024: nurse 4 is administrating the vaccine 
+Sat Mar 23 15:44:01 2024: client 78 aproaches nurse 1 for good times (vaccinations, of course).
+Sat Mar 23 15:44:01 2024: client 78 is ready for the vaccination from nurse 1
+Sat Mar 23 15:44:01 2024: nurse 1 is administrating the vaccine 
+Sat Mar 23 15:44:02 2024: nurse 7 sees there are no vials left, so the shift is done!
+Sat Mar 23 15:44:02 2024: nurse 7 leaves the clinic
+Sat Mar 23 15:44:06 2024: nurse 9 allows client to leave. 
+Sat Mar 23 15:44:06 2024: client 61 leaves the clinic after getting shot.
+Sat Mar 23 15:44:06 2024: nurse 9 is walking to get a vial. 
+Sat Mar 23 15:44:06 2024: nurse 0 allows client to leave. 
+Sat Mar 23 15:44:06 2024: client 136 leaves the clinic after getting shot.
+Sat Mar 23 15:44:06 2024: nurse 0 is walking to get a vial. 
+Sat Mar 23 15:44:06 2024: nurse 4 allows client to leave. 
+Sat Mar 23 15:44:06 2024: client 57 leaves the clinic after getting shot.
+Sat Mar 23 15:44:06 2024: nurse 4 is walking to get a vial. 
+Sat Mar 23 15:44:06 2024: nurse 1 allows client to leave. 
+Sat Mar 23 15:44:06 2024: client 78 leaves the clinic after getting shot.
+Sat Mar 23 15:44:06 2024: nurse 1 is walking to get a vial. 
+Sat Mar 23 15:44:08 2024: nurse 4 sees there are no vials left, so the shift is done!
+Sat Mar 23 15:44:08 2024: nurse 4 leaves the clinic
+Sat Mar 23 15:44:08 2024: nurse 0 sees there are no vials left, so the shift is done!
+Sat Mar 23 15:44:08 2024: nurse 0 leaves the clinic
+Sat Mar 23 15:44:08 2024: nurse 9 sees there are no vials left, so the shift is done!
+Sat Mar 23 15:44:08 2024: nurse 9 leaves the clinic
+Sat Mar 23 15:44:09 2024: nurse 1 sees there are no vials left, so the shift is done!
+Sat Mar 23 15:44:09 2024: nurse 1 leaves the clinic
